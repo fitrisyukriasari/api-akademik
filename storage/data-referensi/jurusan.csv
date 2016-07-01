@@ -1,0 +1,1001 @@
+id_jur,nm_jur,nm_intl_jur,u_sma,u_smk,u_pt,u_slb,id_jenj_didik,id_induk_jurusan,id_kel_bidang
+0000000000,*,NULL,0,0,1,0,30,NULL,*
+"11001     ","Ilmu Kedokteran",NULL,0,0,1,0,40,NULL,11
+"11002     ","Ilmu Kedokteran Dasar",NULL,0,0,1,0,40,NULL,11
+"11006     ",Biomedik,NULL,0,0,1,0,40,NULL,11
+"11101     ","Ilmu Kedokteran",NULL,0,0,1,0,35,NULL,11
+"11102     ","Ilmu Kedokteran Keluarga",NULL,0,0,1,0,35,NULL,11
+"11103     ","Ilmu Kedokteran Klinis",NULL,0,0,1,0,35,NULL,11
+"11104     ","Ilmu Kedokteran Tropis",NULL,0,0,1,0,35,NULL,11
+"11105     ",Imunologi,NULL,0,0,1,0,35,NULL,11
+"11106     ",Biomedik,NULL,0,0,1,0,35,NULL,11
+"11107     ","Imaging Diagnostik",NULL,0,0,1,0,35,NULL,11
+"11108     ","Ergonomi Fisiologi Kerja",NULL,0,0,1,0,35,NULL,11
+"11109     ","Ilmu Pendidikan Kedokteran",NULL,0,0,1,0,35,NULL,11
+"11110     ","Vaksinologi dan Imunoterapetika",NULL,0,0,1,0,35,NULL,11
+"11122     ","Ilmu Kesehatan Olah Raga",NULL,0,0,1,0,35,NULL,11
+"11123     ","Teknologi Biomedis",NULL,0,0,1,0,35,NULL,11
+"11124     ","Ilmu Forensik",NULL,0,0,1,0,35,NULL,11
+"11201     ","Pendidikan Dokter",NULL,0,0,1,0,30,NULL,11
+"11202     ",Fisioterapi,NULL,0,0,1,0,30,NULL,11
+"11210     ","Bio informatika",NULL,0,0,1,0,30,NULL,11
+"11298     ",Andrologi,NULL,0,0,1,0,32,NULL,11
+"11301     ",Fisioterapi,NULL,0,0,1,0,23,NULL,11
+"11302     ","Teknik Radiodiagnostik & Radioterapi",NULL,0,0,1,0,23,NULL,11
+"11303     ","Okupasi Terapi",NULL,0,0,1,0,23,NULL,11
+"11306     ","Pengobatan Tradisional Cina",NULL,0,0,1,0,23,NULL,11
+"11307     ",Akupunktur,NULL,0,0,1,0,23,NULL,11
+"11311     ","Orthotik Prostetik",NULL,0,0,1,0,23,NULL,11
+"11401     ",Fisioterapi,NULL,0,0,1,0,22,NULL,11
+"11402     ","Radiodiagnostik Dan Radioterapi",NULL,0,0,1,0,22,NULL,11
+"11403     ","Okupasi Terapi",NULL,0,0,1,0,22,NULL,11
+"11404     ","Repraksionis Optisien",NULL,0,0,1,0,22,NULL,11
+"11406     ","Pengobatan Tradisional",NULL,0,0,1,0,22,NULL,11
+"11407     ",Akupunktur,NULL,0,0,1,0,22,NULL,11
+"11408     ","Teknik Kardiovaskuler",NULL,0,0,1,0,22,NULL,11
+"11409     ","Kesehatan Lingkungan",NULL,0,0,1,0,22,NULL,11
+"11410     ",Teknobiomedik,NULL,0,0,1,0,30,NULL,11
+"11411     ","Orthotik Prostetik",NULL,0,0,1,0,22,NULL,11
+"11472     ","Teknik Radiodiagnostik & Radioterapi (Kampus Purwokerto)",NULL,0,0,1,0,22,NULL,11
+"11608     ","Teknologi Transfusi Darah",NULL,0,0,1,0,20,NULL,11
+"11701     ","Ilmu Kesehatan Mata",NULL,0,0,1,0,32,NULL,11
+"11702     ","Ilmu Penyakit Dalam",NULL,0,0,1,0,32,NULL,11
+"11703     ",Neurologi,NULL,0,0,1,0,32,NULL,11
+"11704     ","Ilmu Penyakit Kulit dan Kelamin",NULL,0,0,1,0,32,NULL,11
+"11705     ","Ilmu Kesehatan Tht",NULL,0,0,1,0,32,NULL,11
+"11706     ",Anestesiologi,NULL,0,0,1,0,32,NULL,11
+"11707     ","Ilmu Bedah",NULL,0,0,1,0,32,NULL,11
+"11708     ","Ilmu Kebidanan Dan Penyakit Kandungan",NULL,0,0,1,0,32,NULL,11
+"11709     ","Ilmu Penyakit Paru",NULL,0,0,1,0,32,NULL,11
+"11710     ","Ilmu Kedokteran Forensik",NULL,0,0,1,0,32,NULL,11
+"11711     ","Ilmu Kesehatan Anak",NULL,0,0,1,0,32,NULL,11
+"11712     ","Ilmu Bedah Orthopaedi",NULL,0,0,1,0,32,NULL,11
+"11713     ","Ilmu Bedah Urologi",NULL,0,0,1,0,32,NULL,11
+"11714     ","Bedah Plastik",NULL,0,0,1,0,32,NULL,11
+"11715     ","Ilmu Penyakit Jantung",NULL,0,0,1,0,32,NULL,11
+"11716     ","Obstetri dan Ginekologi",NULL,0,0,1,0,37,NULL,11
+"11717     ","Ilmu Bedah Anak",NULL,0,0,1,0,32,NULL,11
+"11718     ","Ilmu Patologi Anatomi",NULL,0,0,1,0,32,NULL,11
+"11719     ","Ilmu Patologi Klinik",NULL,0,0,1,0,32,NULL,11
+"11720     ","Ilmu Kedokteran Nuklir",NULL,0,0,1,0,32,NULL,11
+"11721     ","Ilmu Kedokteran Fisik Dan Rehabilitasi",NULL,0,0,1,0,32,NULL,11
+"11722     ","Ilmu Kedokteran Olahraga",NULL,0,0,1,0,32,NULL,11
+"11723     ",Radiologi,NULL,0,0,1,0,32,NULL,11
+"11724     ",Psikiatri,NULL,0,0,1,0,32,NULL,11
+"11725     ","Mikrobiologi Klinik",NULL,0,0,1,0,32,NULL,11
+"11726     ","Farmakologi Klinik",NULL,0,0,1,0,32,NULL,11
+"11727     ","Kedokteran Okupasi",NULL,0,0,1,0,32,NULL,11
+"11728     ","Ilmu Bedah Orthopaedi Dan Traumatologi",NULL,0,0,1,0,32,NULL,11
+"11729     ","Bedah Syaraf",NULL,0,0,1,0,32,NULL,11
+"11731     ","Bedah Torak Kardiovaskuler",NULL,0,0,1,0,32,NULL,11
+"11732     ","Ilmu Bedah",NULL,0,0,1,0,37,NULL,11
+"11733     ","Ilmu Kesehatan Anak",NULL,0,0,1,0,37,NULL,11
+"11734     ","Ilmu Penyakit Dalam",NULL,0,0,1,0,37,NULL,11
+"11738     ","Onkologi Radiasi",NULL,0,0,1,0,32,NULL,11
+"11739     ","Kedokteran Penerbangan",NULL,0,0,1,0,32,NULL,11
+"11740     ","Ners Spesialis Keperawatan Medikal Bedah",NULL,0,0,1,0,32,NULL,11
+"11741     ","Ners Spesialis Keperawatan Anak",NULL,0,0,1,0,32,NULL,11
+"11742     ","Ners Spesialis Keperawatan Jiwa",NULL,0,0,1,0,32,NULL,11
+"11743     ","Parasitologi Klinik",NULL,0,0,1,0,32,NULL,11
+"11744     ","Akupunktur Medik",NULL,0,0,1,0,32,NULL,11
+"11745     ","Ners Spesialis Keperawatan Maternitas",NULL,0,0,1,0,32,NULL,11
+"11746     ","Ners Spesilias Keperawatan Komunitas",NULL,0,0,1,0,32,NULL,11
+"11750     ","Radiologi Kedokteran Gigi",NULL,0,0,1,0,32,NULL,11
+"11801     ","Bedah Kepala Leher",NULL,0,0,1,0,37,NULL,11
+"11802     ","Bedah Digestif",NULL,0,0,1,0,37,NULL,11
+"11807     ","Anestesiologi Dan Reanimasi",NULL,0,0,1,0,37,NULL,11
+"11810     ","Kedokteran Jiwa",NULL,0,0,1,0,37,NULL,11
+"11816     ","Obstetri dan Ginekologi ",NULL,0,0,1,0,37,NULL,11
+"11824     ",Psikiatri,NULL,0,0,1,0,37,NULL,11
+"11901     ","Profesi Dokter",NULL,0,0,1,0,25,NULL,11
+"12001     ","Ilmu Kedokteran Gigi",NULL,0,0,1,0,40,NULL,11
+"12101     ","Ilmu Kedokteran Gigi",NULL,0,0,1,0,35,NULL,11
+"12102     ","Ilmu Kedokteran Gigi Dasar",NULL,0,0,1,0,35,NULL,11
+"12103     ","Ilmu Kedokteran Gigi Komunitas",NULL,0,0,1,0,35,NULL,11
+"12201     ","Kedokteran Gigi",NULL,0,0,1,0,30,NULL,11
+"12301     ","Keperawatan Gigi",NULL,0,0,1,0,23,NULL,11
+"12302     ","Keperawatan Gigi",NULL,0,0,1,0,23,NULL,11
+"12401     ","Keperawatan Gigi",NULL,0,0,1,0,22,NULL,11
+"12402     ","Keperawatan Gigi",NULL,0,0,1,0,22,NULL,11
+"12472     ","Keperawatan Gigi (Kampus Bukit Tinggi)",NULL,0,0,1,0,22,NULL,11
+"12701     ","Ilmu Bedah Mulut",NULL,0,0,1,0,32,NULL,11
+"12702     ","Ilmu Penyakit Mulut",NULL,0,0,1,0,32,NULL,11
+"12703     ","Ilmu Konservasi Gigi",NULL,0,0,1,0,32,NULL,11
+"12704     ","Ilmu Kesehatan Gigi Anak",NULL,0,0,1,0,32,NULL,11
+"12705     ","Dokter Gigi Periodonsia",NULL,0,0,1,0,32,NULL,11
+"12706     ",Ortodonsia,NULL,0,0,1,0,32,NULL,11
+"12707     ",Prostodonsia,NULL,0,0,1,0,32,NULL,11
+"12901     ","Dokter Gigi",NULL,0,0,1,0,25,NULL,11
+"13001     ","Ilmu Kesehatan",NULL,0,0,1,0,40,NULL,11
+"13011     ","Ilmu Gizi",NULL,0,0,1,0,40,NULL,11
+"13021     ",Epidemiologi,NULL,0,0,1,0,40,NULL,11
+"13101     ","Ilmu Kesehatan Masyarakat",NULL,0,0,1,0,35,NULL,11
+"13111     ","Ilmu Gizi",NULL,0,0,1,0,35,NULL,11
+"13112     ","Ketahanan Pangan",NULL,0,0,1,0,35,NULL,11
+"13121     ",Epidemiologi,NULL,0,0,1,0,35,NULL,11
+"13122     ","Kesehatan Reproduksi",NULL,0,0,1,0,35,NULL,11
+"13131     ","Promosi Kesehatan",NULL,0,0,1,0,35,NULL,11
+"13141     ","Keselamatan Dan Kesehatan Kerja",NULL,0,0,1,0,35,NULL,11
+"13151     ","Kesehatan Lingkungan",NULL,0,0,1,0,35,NULL,11
+"13161     ","Administrasi Rumah Sakit",NULL,0,0,1,0,35,NULL,11
+"13163     ","Administrasi Dan Kebijakan Kesehatan",NULL,0,0,1,0,35,NULL,11
+"13201     ","Ilmu Kesehatan Masyarakat",NULL,0,0,1,0,30,NULL,11
+"13202     ","Kesehatan Masyarakat PDD1",NULL,0,0,1,0,30,NULL,11
+"13211     ",Gizi,NULL,0,0,1,0,30,NULL,11
+"13241     ","Kesehatan Dan Keselamatan Kerja",NULL,0,0,1,0,30,NULL,11
+"13251     ","Kesehatan Lingkungan",NULL,0,0,1,0,30,NULL,11
+"13261     ","Administrasi Rumah Sakit",NULL,0,0,1,0,30,NULL,11
+"13262     ","Perekam dan Informasi Kesehatan",NULL,0,0,1,0,30,NULL,11
+"13271     ","Kesehatan Masyarakat K. Sintang",NULL,0,0,1,0,30,NULL,11
+"13311     ",Gizi,NULL,0,0,1,0,23,NULL,11
+"13341     ","Keselamatan Dan Kesehatan Kerja",NULL,0,0,1,0,23,NULL,11
+"13351     ","Kesehatan Lingkungan",NULL,0,0,1,0,23,NULL,11
+"13353     ","Analis Kesehatan",NULL,0,0,1,0,23,NULL,11
+"13362     ","Rekam Medik",NULL,0,0,1,0,23,NULL,11
+"13371     ","Kesehatan Lingkungan (Kampus Purwokerto)",NULL,0,0,1,0,23,NULL,11
+"13411     ",Gizi,NULL,0,0,1,0,22,NULL,11
+"13441     ","Hiperkes Dan Keselamatan Kerja",NULL,0,0,1,0,22,NULL,11
+"13451     ","Keperawatan D3",NULL,0,0,1,0,22,NULL,11
+"13453     ","Analis Kesehatan",NULL,0,0,1,0,22,NULL,11
+"13456     ","Analis Kesehatan",NULL,0,0,1,0,22,NULL,11
+"13461     ","Administrasi Rumah Sakit",NULL,0,0,1,0,22,NULL,11
+"13462     ","Perekam dan Informasi Kesehatan",NULL,0,0,1,0,22,NULL,11
+"13471     ","Kesehatan Lingkungan (Kampus Kabanjahe)",NULL,0,0,1,0,22,NULL,11
+"13472     ","Perekam Medis & Informasi Kesehatan (Kampus Cirebon)",NULL,0,0,1,0,22,NULL,11
+"13473     ","Gizi (Kampus Luar Domisili)",NULL,0,0,1,0,22,NULL,11
+"13541     ","Keselamatan dan Kesehatan Kerja",NULL,0,0,1,0,21,NULL,11
+"13701     ","Gizi Klinik",NULL,0,0,1,0,32,NULL,11
+"13901     ","Profesi Kesehatan Masyarakat",NULL,0,0,1,0,25,NULL,11
+"14001     ","Ilmu Keperawatan",NULL,0,0,1,0,40,NULL,11
+"14101     ","Ilmu Keperawatan",NULL,0,0,1,0,35,NULL,11
+"14102     ","Keperawatan Terapan",NULL,0,0,1,0,35,NULL,11
+"14201     ","Ilmu Keperawatan",NULL,0,0,1,0,30,NULL,11
+"14202     ","Ilmu Keperawatan Gigi",NULL,0,0,1,0,30,NULL,11
+"14301     ",Keperawatan,NULL,0,0,1,0,23,NULL,11
+"14371     ","Keperawatan (Kampus Bima)",NULL,0,0,1,0,23,NULL,11
+"14401     ",Keperawatan,NULL,0,0,1,0,22,NULL,11
+"14471     ","Kebidanan (Kampus Rangkas Bitung)",NULL,0,0,1,0,22,NULL,11
+"14472     ","Keperawatan  (Kampus Masohi)",NULL,0,0,1,0,22,NULL,11
+"14473     ","Keperawatan ( Kampus Wamena)",NULL,0,0,1,0,22,NULL,11
+"14474     ","Keperawatan (Kampus Biak)",NULL,0,0,1,0,22,NULL,11
+"14475     ","Keperawatan (Kampus Mimika)",NULL,0,0,1,0,22,NULL,11
+"14476     ","Keperawatan (Kep. Yapen)",NULL,0,0,1,0,22,NULL,11
+"14701     ","Ilmu Keperawatan",NULL,0,0,1,0,32,NULL,11
+"14901     ",Ners,NULL,0,0,1,0,25,NULL,11
+"15101     ","Ilmu Kebidanan",NULL,0,0,1,0,35,NULL,11
+"15102     ","Kebidanan Terapan",NULL,0,0,1,0,35,NULL,11
+"15201     ",Kebidanan,NULL,0,0,1,0,30,NULL,11
+"15301     ","Bidan Pendidik",NULL,0,0,1,0,23,NULL,11
+"15302     ",Kebidanan,NULL,0,0,1,0,23,NULL,11
+"15371     ","Kebidanan (Kampus Cirebon)",NULL,0,0,1,0,23,NULL,11
+"15372     ","Kebidanan (Kampus Jember)",NULL,0,0,1,0,23,NULL,11
+"15373     ","Kebidanan (Kampus Kediri)",NULL,0,0,1,0,22,NULL,11
+"15401     ",Kebidanan,NULL,0,0,1,0,22,NULL,11
+"15471     ","Kebidanan  (Kampus Saumlaki)",NULL,0,0,1,0,22,NULL,11
+"15472     ","Kebidanan (Kampus Bangkalan)",NULL,0,0,1,0,22,NULL,11
+"15473     ","Kebidanan (Kampus Blora)",NULL,0,0,1,0,22,NULL,11
+"20001     ","Ilmu Teknik Elektro",NULL,0,0,1,0,40,NULL,12
+"20002     ","Opto Elektroteknika Laser",NULL,0,0,1,0,40,NULL,12
+"20003     ","Ilmu Teknik",NULL,0,0,1,0,40,NULL,12
+"20101     ","Teknik Elektro",NULL,0,0,1,0,35,NULL,12
+"20102     ","Opto Elektronika Dan Aplikasi Laser",NULL,0,0,1,0,35,NULL,12
+"20201     ","Teknik Elektro",NULL,0,0,1,0,30,NULL,12
+"20202     ","Teknik Telekomunikasi",NULL,0,0,1,0,30,NULL,12
+"20203     ","Teknik Listrik",NULL,0,0,1,0,30,NULL,12
+"20301     ","Instrumentasi Dan Otomasi Industri",NULL,0,0,1,0,23,NULL,12
+"20302     ","Teknik Telekomunikasi",NULL,0,0,1,0,23,NULL,12
+"20303     ","Sistem Kelistrikan",NULL,0,0,1,0,23,NULL,12
+"20304     ","Jaringan Telekomunikasi Digital",NULL,0,0,1,0,23,NULL,12
+"20305     ","Teknik Listrik",NULL,0,0,1,0,23,NULL,12
+"20306     ","Instrumentasi Meteorologi Klimatologi dan Geofisika",NULL,0,0,1,0,23,NULL,4
+"20401     ",Elektromedik,NULL,0,0,1,0,22,NULL,12
+"20402     ","Teknik Telekomunikasi",NULL,0,0,1,0,22,NULL,12
+"20403     ","Teknik Elektro",NULL,0,0,1,0,22,NULL,12
+"20404     ","INSTRU meteorologi klimatologi&geofisika",NULL,0,0,1,0,22,NULL,12
+"20405     ","Teknik Listrik",NULL,0,0,1,0,22,NULL,12
+"20406     ","Teknik Elektronika",NULL,0,0,1,0,22,NULL,12
+"20501     ",Elektronika,NULL,0,0,1,0,21,NULL,12
+"20503     ","Teknik Elektro",NULL,0,0,1,0,21,NULL,12
+"20504     ","Teknik Listrik PDD 1",NULL,0,0,1,0,21,NULL,12
+"20505     ","Teknik Listrik",NULL,0,0,1,0,21,NULL,12
+"20506     ","Elektro Indutri PDD",NULL,0,0,1,0,21,NULL,12
+"20601     ",Elektronika,NULL,0,0,1,0,20,NULL,12
+"20603     ","Instalasi Tenaga Listrik",NULL,0,0,1,0,20,NULL,12
+"20604     ","INSTRU meteorologi klimatologi&geofisika",NULL,0,0,1,0,20,NULL,12
+"21001     ","Ilmu Teknik Mesin",NULL,0,0,1,0,40,NULL,12
+"21012     ","Teknik Bioenergi dan Kemurgi",NULL,0,0,1,0,30,NULL,12
+"21101     ","Energi Terbarukan",NULL,0,0,1,0,35,NULL,12
+"21102     ","Ketahanan Energi",NULL,0,0,1,0,35,NULL,12
+"21103     ","Teknik Mesin",NULL,0,0,1,0,35,NULL,12
+"21201     ","Teknik Mesin",NULL,0,0,1,0,30,NULL,12
+"21206     ","Teknik Energi",NULL,0,0,1,0,30,NULL,12
+"21207     ","Transportasi Laut",NULL,0,0,1,0,30,NULL,12
+"21271     ","Teknik Mesin K. Sintang",NULL,0,0,1,0,30,NULL,12
+"21301     ","Mekanik Industri Dan Desain",NULL,0,0,1,0,23,NULL,12
+"21302     ","Teknik Mesin dan Manufaktur",NULL,0,0,1,0,23,NULL,12
+"21303     ","Teknik Otomotif Elektronik",NULL,0,0,1,0,23,NULL,12
+"21305     ","Teknik Pendingin dan Tata Udara",NULL,0,0,1,0,23,NULL,12
+"21306     ","Teknik Energi",NULL,0,0,1,0,23,NULL,12
+"21307     ",Manufaktur,NULL,0,0,1,0,23,NULL,12
+"21308     ","Konservasi Energi",NULL,0,0,1,0,23,NULL,12
+"21312     ","Teknik Mekatronika",NULL,0,0,1,0,23,NULL,12
+"21313     ","Pengelolaan dan Perawatan Alat Berat",NULL,0,0,1,0,23,NULL,12
+"21401     ","Mesin Produksi",NULL,0,0,1,0,22,NULL,12
+"21402     ","Mesin Industri",NULL,0,0,1,0,22,NULL,12
+"21403     ","Mesin Otomotif",NULL,0,0,1,0,22,NULL,12
+"21404     ","Mesin Perkakas",NULL,0,0,1,0,22,NULL,12
+"21405     ","Teknik Pendingin dan Tata Udara",NULL,0,0,1,0,22,NULL,12
+"21406     ","Teknik Konversi Energi",NULL,0,0,1,0,22,NULL,12
+"21407     ",Manufaktur,NULL,0,0,1,0,22,NULL,12
+"21408     ","Perawatan Dan Perbaikan Mesin",NULL,0,0,1,0,22,NULL,12
+"21409     ","Perancangan Mekanik",NULL,0,0,1,0,22,NULL,12
+"21410     ",Pengecoran,NULL,0,0,1,0,22,NULL,12
+"21411     ","Teknik Perancangan Mekanik dan Mesin",NULL,0,0,1,0,22,NULL,12
+"21412     ",Mekatronika,NULL,0,0,1,0,22,NULL,12
+"21413     ","Alat Berat",NULL,0,0,1,0,22,NULL,12
+"21501     ","Teknik Mesin",NULL,0,0,1,0,21,NULL,12
+"21502     ","Teknik Mesin Luar Domisili",NULL,0,0,1,0,21,NULL,12
+"21503     ","Teknik Otomotif  K. Keerom",NULL,0,0,1,0,21,NULL,12
+"21504     ","Teknik Perawatan Mesin dan Perawatan Industri ",NULL,0,0,1,0,21,NULL,12
+"21505     ","Teknik Otomotif PDD 1",NULL,0,0,1,0,21,NULL,12
+"21506     ","Teknik Konversi Energi, Kampus di Pusat Pengembangan & Pelat",NULL,0,0,1,0,21,NULL,12
+"21507     ","Teknik Mesin PDD 2",NULL,0,0,1,0,21,NULL,12
+"21508     ","Teknik Pemeliharaan Mesin, Kampus Karawang.",NULL,0,0,1,0,21,NULL,12
+"21509     ","Teknik Perancangan Mekanik Umum, Kampus Karawang.",NULL,0,0,1,0,21,NULL,12
+"21512     ","Teknik Mekatronika (Kampus Ponorogo)",NULL,0,0,1,0,21,NULL,12
+"21513     ","Alat Berat, Kampus di Pusat Pengembangan dan Pelatihan PTK",NULL,0,0,1,0,21,NULL,12
+"21514     ","Otomasi Perkatoran",NULL,0,0,1,0,21,NULL,12
+"21521     ","Teknik Operasional Mesin",NULL,0,0,1,0,21,NULL,12
+"21523     ","Teknik Otomotif Elektronik K. Trenggalek",NULL,0,0,1,0,21,NULL,12
+"21573     ","Teknik Otomotif Kampus Kabupaten Manokwari",NULL,0,0,1,0,21,NULL,12
+"21601     ","Teknik Mesin",NULL,0,0,1,0,20,NULL,12
+"21602     ","Teknik Mesin",NULL,0,0,1,0,20,NULL,12
+"21603     ","Operator dan Peralatan Alat Berat",NULL,0,0,1,0,20,NULL,12
+"21605     ","Teknik Pendingin",NULL,0,0,1,0,20,NULL,12
+"21612     ",Mekatronika,NULL,0,0,1,0,20,NULL,12
+"21613     ","Teknik Alat Berat Kampus Kota Bontang",NULL,0,0,1,0,20,NULL,12
+"22001     ","Ilmu Teknik Sipil",NULL,0,0,1,0,40,NULL,12
+"22101     ","Teknik Sipil",NULL,0,0,1,0,35,NULL,12
+"22102     ","Sistem Dan Teknik Jalan Raya",NULL,0,0,1,0,35,NULL,12
+"22103     ","Pengelolaan Sumberdaya Air",NULL,0,0,1,0,35,NULL,12
+"22104     ","Rekayasa Infrastruktur Lingkungan",NULL,0,0,1,0,30,NULL,12
+"22113     ","Pengelolaan Infrastruktur dan Pembangunan Masyarakat",NULL,0,0,1,0,35,NULL,12
+"22201     ","Teknik Sipil",NULL,0,0,1,0,30,NULL,12
+"22202     ","Teknik Pengairan",NULL,0,0,1,0,30,NULL,12
+"22203     ","Rekayasa Infrastruktur",NULL,0,0,1,0,35,NULL,12
+"22301     ","Perancangan Jalan dan Jembatan",NULL,0,0,1,0,23,NULL,12
+"22302     ","Jasa Konstruksi",NULL,0,0,1,0,23,NULL,12
+"22303     ","Konstruksi Bangunan",NULL,0,0,1,0,23,NULL,12
+"22304     ","Teknik Bangunan Rawa",NULL,0,0,1,0,23,NULL,12
+"22313     ","Pengelolaan dan Perawatan Infrastruktur Sipil",NULL,0,0,1,0,23,NULL,12
+"22401     ","Teknik Sipil",NULL,0,0,1,0,22,NULL,12
+"22402     ","Konstruksi Sipil",NULL,0,0,1,0,22,NULL,12
+"22403     ","Bangunan Gedung",NULL,0,0,1,0,22,NULL,12
+"22404     ","Teknik Sipil Bangunan Air",NULL,0,0,1,0,22,NULL,12
+"22405     ","Teknik Sipil Bangunan Transportasi",NULL,0,0,1,0,22,NULL,12
+"22406     ","Teknik Jalan Raya",NULL,0,0,1,0,22,NULL,12
+"22407     ","Teknik Kereta Api",NULL,0,0,1,0,22,NULL,12
+"22408     ","Teknik Sipil PDD1",NULL,0,0,1,0,22,NULL,12
+"22501     ","Teknik Sipil K. Aceh Barat",NULL,0,0,1,0,21,NULL,12
+"22503     ","Konstruksi Gedung",NULL,0,0,1,0,21,NULL,12
+"22571     ","Teknik Sipil Luar Domisili",NULL,0,0,1,0,21,NULL,12
+"22603     ","Konstruksi Bangunan",NULL,0,0,1,0,20,NULL,12
+"23001     ",Arsitektur,NULL,0,0,1,0,40,NULL,12
+"23101     ",Arsitektur,NULL,0,0,1,0,35,NULL,12
+"23201     ",Arsitektur,NULL,0,0,1,0,30,NULL,12
+"23401     ",Arsitektur,NULL,0,0,1,0,22,NULL,12
+"23601     ",Arsitektur,NULL,0,0,1,0,20,NULL,12
+"23901     ","Profesi Arsitek",NULL,0,0,1,0,25,NULL,12
+"24001     ","Ilmu Teknik Kimia",NULL,0,0,1,0,40,NULL,12
+"24101     ","Teknik Kimia",NULL,0,0,1,0,35,NULL,12
+"24201     ","Teknik Kimia",NULL,0,0,1,0,30,NULL,12
+"24301     ","Teknik Kimia Produksi Bersih",NULL,0,0,1,0,23,NULL,12
+"24302     ","Teknik Tekstil",NULL,0,0,1,0,23,NULL,12
+"24303     ","Kimia Analisis",NULL,0,0,1,0,22,NULL,12
+"24304     ","Kimia Tekstil",NULL,0,0,1,0,23,NULL,12
+"24305     ","Teknologi Kimia Industri",NULL,0,0,1,0,23,NULL,12
+"24401     ","Teknik Kimia",NULL,0,0,1,0,22,NULL,12
+"24402     ","Analis Kimia",NULL,0,0,1,0,22,NULL,12
+"24403     ","Petro Dan Oleo Kimia",NULL,0,0,1,0,22,NULL,12
+"24404     ","Kimia Tekstil",NULL,0,0,1,0,22,NULL,12
+"24501     ","Teknologi Kimia Industri Kampus Kabupaten Nagekeo",NULL,0,0,1,0,21,NULL,12
+"24603     ","Petro dan Oleo Kimia Kampus Kota Bontang",NULL,0,0,1,0,20,NULL,12
+"24604     ","Teknik Tekstil",NULL,0,0,1,0,20,NULL,12
+"24605     ","Pertro Oleo Kimia",NULL,0,0,1,0,21,NULL,12
+"25001     ","Teknik Lingkungan",NULL,0,0,1,0,40,NULL,12
+"25101     ","Lingkungan Dan Perkotaan",NULL,0,0,1,0,35,NULL,12
+"25201     ","Geografi Dan Ilmu Lingkungan",NULL,0,0,1,0,30,NULL,12
+"25202     ","Teknologi Bioproses",NULL,0,0,1,0,30,NULL,12
+"25401     ","Manajemen Lingkungan",NULL,0,0,1,0,22,NULL,12
+"26001     ","Ilmu Teknik Industri",NULL,0,0,1,0,40,NULL,12
+"26101     ","Teknik Dan Manajemen Industri",NULL,0,0,1,0,35,NULL,12
+"26201     ","Teknik Industri",NULL,0,0,1,0,30,NULL,12
+"26202     ","Manajemen Rekayasa",NULL,0,0,1,0,30,NULL,12
+"26203     ","Agen Intelijen",NULL,0,0,1,0,30,NULL,12
+"26204     ","Analis Intelijen",NULL,0,0,1,0,30,NULL,12
+"26301     ","Teknik Manajemen Industri Pertahanan",NULL,0,0,1,0,23,NULL,12
+"26302     ","Teknik Manajemen Pabrik",NULL,0,0,1,0,23,NULL,12
+"26303     ","Teknologi Mekanik Industri",NULL,0,0,1,0,23,NULL,12
+"26304     ","Manajemen Industri",NULL,0,0,1,0,23,NULL,12
+"26401     ","Teknik Industri",NULL,0,0,1,0,22,NULL,12
+"26402     ","Manajemen Industri",NULL,0,0,1,0,22,NULL,12
+"26501     ","Teknik Industri PDD",NULL,0,0,1,0,21,NULL,12
+"27001     ","Teknik Metalurgi Dan Material",NULL,0,0,1,0,40,NULL,12
+"27101     ","Material dan Metalurgi",NULL,0,0,1,0,35,NULL,12
+"27201     ","Teknik Metalurgi",NULL,0,0,1,0,30,NULL,12
+"27401     ",Metalurgi,NULL,0,0,1,0,22,NULL,12
+"28001     ","Ilmu Bahan-bahan",NULL,0,0,1,0,40,NULL,12
+"28101     ","Ilmu Dan Teknik Material",NULL,0,0,1,0,35,NULL,12
+"28201     ","Teknik Material",NULL,0,0,1,0,30,NULL,12
+"29001     ","Ilmu Teknik Geomatika",NULL,0,0,1,0,40,NULL,12
+"29101     ","Teknik Geodesi Dan Geomatika",NULL,0,0,1,0,35,NULL,12
+"29201     ","Teknik Geodesi",NULL,0,0,1,0,30,NULL,12
+"29202     ","Teknik Geomatika",NULL,0,0,1,0,30,NULL,12
+"29401     ","Teknik Geodesi",NULL,0,0,1,0,22,NULL,12
+"30001     ","Teknik Fisika",NULL,0,0,1,0,40,NULL,12
+"30101     ","Teknik Fisika",NULL,0,0,1,0,35,NULL,12
+"30102     ","Instrumentasi Dan Kontrol",NULL,0,0,1,0,35,NULL,12
+"30201     ","Fisika Teknik",NULL,0,0,1,0,30,NULL,12
+"30202     ","Elektronika Dan Instrumentasi",NULL,0,0,1,0,30,NULL,12
+"30302     ","Elektronika dan Instrumentasi",NULL,0,0,1,0,23,NULL,12
+"30303     ",Elektromekanika,NULL,0,0,1,0,23,NULL,12
+"30401     ",Fisika,NULL,0,0,1,0,22,NULL,12
+"31001     ","Rekayasa Pertambangan",NULL,0,0,1,0,40,NULL,12
+"31101     ","Rekayasa Pertambangan",NULL,0,0,1,0,35,NULL,12
+"31102     ","Teknik Panas Bumi",NULL,0,0,1,0,35,NULL,12
+"31103     ","Teknik Sistem",NULL,0,0,1,0,35,NULL,12
+"31104     ","Rekayasa Infrastruktur",NULL,0,0,1,0,35,NULL,12
+"31105     ","Analisis Sistem dan Riset Operasi",NULL,0,0,1,0,35,NULL,12
+"31201     ","Teknik Pertambangan",NULL,0,0,1,0,30,NULL,12
+"31401     ","Teknik Mineral",NULL,0,0,1,0,22,NULL,12
+"31501     ","Teknik Pertambangan PDD 1",NULL,0,0,1,0,21,NULL,12
+"32001     ","Teknik Perminyakan",NULL,0,0,1,0,40,NULL,12
+"32101     ","Teknik Perminyakan",NULL,0,0,1,0,35,NULL,12
+"32201     ","Teknik Perminyakan",NULL,0,0,1,0,30,NULL,12
+"32202     ","Teknik Pengolahan Minyak dan Gas",NULL,0,0,1,0,23,NULL,12
+"32203     ","Teknik Pengolahan Limbah",NULL,0,0,1,0,30,NULL,12
+"32303     ","Teknik Pengolahan Limbah",NULL,0,0,1,0,23,NULL,12
+"32304     ","Teknik Keselamatan Dan Kesehatan Kerja",NULL,0,0,1,0,23,NULL,12
+"32305     ","Teknik Keselamatan Otomotif",NULL,0,0,1,0,23,NULL,12
+"32401     ",Perminyakan,NULL,0,0,1,0,22,NULL,12
+"32402     ","Pengolahan Minyak Dan Gas",NULL,0,0,1,0,22,NULL,12
+"32403     ","Teknik Pengolahan Limbah",NULL,0,0,1,0,22,NULL,12
+"32404     ","Keselamatan Kerja & Pencegahan Kebakaran",NULL,0,0,1,0,22,NULL,12
+"32405     ","Instrmentasi Dan Elektronika Migas",NULL,0,0,1,0,22,NULL,12
+"32602     ",Meteorologi,NULL,0,0,1,0,20,NULL,12
+"32604     ","Fire And Safety",NULL,0,0,1,0,20,NULL,12
+"33001     ","Teknik Geofisika",NULL,0,0,1,0,40,NULL,12
+"33101     ","Teknik Geofisika",NULL,0,0,1,0,35,NULL,12
+"33201     ",Geofisika,NULL,0,0,1,0,30,NULL,12
+"33202     ",Meteorologi,NULL,0,0,1,0,30,NULL,12
+"33301     ",Geofisika,NULL,0,0,1,0,23,NULL,4
+"33302     ",Meteorologi,NULL,0,0,1,0,23,NULL,4
+"33401     ",Geofisika,NULL,0,0,1,0,22,NULL,12
+"33402     ",Meteorologi,NULL,0,0,1,0,22,NULL,12
+"33601     ",Geofisika,NULL,0,0,1,0,20,NULL,12
+"34001     ","Teknik Geologi",NULL,0,0,1,0,40,NULL,12
+"34002     ","Sains Kebumian",NULL,0,0,1,0,40,NULL,12
+"34101     ",Geologi,NULL,0,0,1,0,35,NULL,12
+"34102     ","Sains Kebumian",NULL,0,0,1,0,35,NULL,12
+"34103     ","Teknik Air Tanah",NULL,0,0,1,0,35,NULL,12
+"34201     ","Teknik Geologi",NULL,0,0,1,0,30,NULL,12
+"34401     ",Geoinformatika,NULL,0,0,1,0,22,NULL,12
+"35001     ","Perencanaan Wilayah Dan Kota",NULL,0,0,1,0,40,NULL,12
+"35101     ","Manajemen Perkotaan",NULL,0,0,1,0,35,NULL,12
+"35102     ","Rancang Kota",NULL,0,0,1,0,35,NULL,12
+"35201     ","Perencanaan Wilayah dan Kota",NULL,0,0,1,0,30,NULL,12
+"352045    ","Teknik Sipil dan Lingkungan",NULL,0,0,1,0,30,NULL,12
+"35301     ",Pertanahan,NULL,0,0,1,0,23,NULL,12
+"35401     ","Perencanaan Wilayah Dan Kota",NULL,0,0,1,0,22,NULL,12
+"35402     ","Survey dan Pemataan",NULL,0,0,1,0,22,NULL,12
+"35501     ","Survai dan Pemetaan, Kampus Kutai Timur",NULL,0,0,1,0,21,NULL,12
+"35601     ",Planologi,NULL,0,0,1,0,20,NULL,12
+"35611     ","Survei Pemetaan",NULL,0,0,1,0,20,NULL,12
+"36101     ","Teknik Perkapalan",NULL,0,0,1,0,35,NULL,12
+"36201     ","Teknik Perkapalan",NULL,0,0,1,0,30,NULL,12
+"36202     ","Teknik Sistem Perkapalan",NULL,0,0,1,0,30,NULL,12
+"36301     ","Teknik Desain Dan Manufaktur",NULL,0,0,1,0,23,NULL,12
+"36302     ","Teknik Perpipaan",NULL,0,0,1,0,23,NULL,12
+"36303     ","Teknik Pengelasan",NULL,0,0,1,0,23,NULL,12
+"36304     ","Teknik Otomasi",NULL,0,0,1,0,23,NULL,12
+"36401     ","Teknik Perancangan Dan Konstruksi Kapal",NULL,0,0,1,0,22,NULL,12
+"36402     ","Teknik Permesinan Kapal",NULL,0,0,1,0,22,NULL,12
+"36403     ","Teknik Bangunan Kapal",NULL,0,0,1,0,22,NULL,12
+"36404     ","Teknik Kelistrikan Kapal",NULL,0,0,1,0,22,NULL,12
+"36501     ","Teknik Perkapalan",NULL,0,0,1,0,21,NULL,12
+"36602     ",Permesinan,NULL,0,0,1,0,20,NULL,12
+"36603     ",Pengelasan,NULL,0,0,1,0,20,NULL,12
+"36673     ","Rancang Bangun Kapal",NULL,0,0,1,0,20,NULL,12
+"37001     ","Rekayasa Nuklir",NULL,0,0,1,0,40,NULL,12
+"37101     ","Ilmu Dan Rekayasa Nuklir",NULL,0,0,1,0,35,NULL,12
+"37201     ","Teknik Nuklir",NULL,0,0,1,0,30,NULL,12
+"37301     ","Teknik Kimia Nuklir",NULL,0,0,1,0,23,NULL,12
+"38001     ","Ilmu Teknik Kelautan",NULL,0,0,1,0,40,NULL,12
+"38101     ","Teknik Kelautan",NULL,0,0,1,0,35,NULL,12
+"38201     ",Oseanografi,NULL,0,0,1,0,30,NULL,12
+"38401     ","Teknik Hidro Oseanografi",NULL,0,0,1,0,22,NULL,12
+"39001     ",Transportasi,NULL,0,0,1,0,40,NULL,12
+"39101     ",Transportasi,NULL,0,0,1,0,35,NULL,12
+"39201     ","Manajemen Transportasi",NULL,0,0,1,0,30,NULL,12
+"39301     ","Rekayasa Transportasi",NULL,0,0,1,0,23,NULL,12
+"39302     ","Transportasi Darat",NULL,0,0,1,0,23,NULL,12
+"39304     ","Lalu Lintas Udara",NULL,0,0,1,0,23,NULL,12
+"39401     ",Transportasi,NULL,0,0,1,0,22,NULL,12
+"39402     ","Pengujian Kendaraan Bermotor",NULL,0,0,1,0,22,NULL,12
+"39403     ","Lalu Lintas Sungai Danau dan Penyeberangan",NULL,0,0,1,0,22,NULL,12
+"39404     ","Lalu Lintas Udara",NULL,0,0,1,0,22,NULL,12
+"39501     ","Pengujian Kendaraan Bermotor",NULL,0,0,1,0,21,NULL,12
+"39502     ","Lalu Lintas Udara",NULL,0,0,1,0,21,NULL,12
+"40001     ","Aeronotika Dan Astronotika",NULL,0,0,1,0,40,NULL,12
+"40101     ","Aeronotika Dan Astronotika",NULL,0,0,1,0,35,NULL,12
+"40201     ","Aeronotika Dan Astronotika",NULL,0,0,1,0,30,NULL,12
+"40301     ","Teknik Aeronautika Pertahanan",NULL,0,0,1,0,23,NULL,12
+"40307     ","Teknik Pesawat Udara",NULL,0,0,1,0,23,NULL,12
+"40308     ","Teknik Navigasi Udara",NULL,0,0,1,0,23,NULL,12
+"40309     ",Penerbang,NULL,0,0,1,0,23,NULL,12
+"40401     ","Listrik Pesawat",NULL,0,0,1,0,22,NULL,12
+"40402     ","Teknik Aeronautika",NULL,0,0,1,0,22,NULL,12
+"40403     ","Rangka Pesawat",NULL,0,0,1,0,22,NULL,12
+"40404     ","Motor Pesawat",NULL,0,0,1,0,22,NULL,12
+"40405     ",Avionika,NULL,0,0,1,0,22,NULL,12
+"40406     ","Teknik & Manajemen Logistik Penerbangan",NULL,0,0,1,0,22,NULL,12
+"40407     ","Teknik Pesawat Udara",NULL,0,0,1,0,22,NULL,12
+"40502     ",Aeronautika,NULL,0,0,1,0,21,NULL,12
+"41001     ","Ilmu Keteknikan Pertanian",NULL,0,0,1,0,40,NULL,13
+"41011     ","Teknologi Industri Pertanian",NULL,0,0,1,0,40,NULL,13
+"41021     ","Ilmu Pangan",NULL,0,0,1,0,40,NULL,13
+"41101     ","Keteknikan Pertanian",NULL,0,0,1,0,35,NULL,13
+"41103     ","Ilmu Dan Teknologi Pangan",NULL,0,0,1,0,35,NULL,13
+"41111     ","Teknologi Agroindustri",NULL,0,0,1,0,35,NULL,13
+"41121     ","Illmu Dan Teknologi Pangan",NULL,0,0,1,0,35,NULL,13
+"41122     ","Teknologi Pangan Profesi",NULL,0,0,1,0,35,NULL,4
+"41131     ","Teknologi Hasil Pertanian",NULL,0,0,1,0,35,NULL,13
+"41133     ","Teknologi Hasil Perkebunan",NULL,0,0,1,0,35,NULL,13
+"41201     ","Keteknikan Pertanian",NULL,0,0,1,0,30,NULL,13
+"41203     ","Ilmu Dan Teknologi Pangan",NULL,0,0,1,0,30,NULL,13
+"41211     ","Teknologi Industri Pertanian",NULL,0,0,1,0,30,NULL,13
+"41221     ","Teknologi Pangan",NULL,0,0,1,0,30,NULL,13
+"41231     ","Ilmu Dan Teknologi Pangan",NULL,0,0,1,0,30,NULL,13
+"41234     ","Pengolahan Hasil Perikanan",NULL,0,0,1,0,30,NULL,13
+"41301     ","Permesinan Perikanan",NULL,0,0,1,0,23,NULL,13
+"41311     ",Agroindustri,NULL,0,0,1,0,23,NULL,13
+"41331     ","Manajemen Produksi Pertanian",NULL,0,0,1,0,23,NULL,13
+"41333     ","Teknologi Pengolahan Hasil Perkebunan",NULL,0,0,1,0,23,NULL,13
+"41334     ","Teknologi Pengolahan Pulp dan Kertas",NULL,0,0,1,0,23,NULL,13
+"41401     ","Keteknikan Pertanian",NULL,0,0,1,0,22,NULL,13
+"41402     ","Mesin Dan Peralatan Perikanan",NULL,0,0,1,0,22,NULL,13
+"41411     ","Teknologi Industri Pertanian",NULL,0,0,1,0,22,NULL,13
+"41421     ","Supervisor Jaminan Mutu Pangan",NULL,0,0,1,0,22,NULL,13
+"41431     ","Produksi Tanaman Pangan",NULL,0,0,1,0,22,NULL,13
+"41433     ","Pengolahan Hasil Perkebunan Kelapa Sawit",NULL,0,0,1,0,22,NULL,13
+"41434     ","Pengelolaan Hasil Perikanan",NULL,0,0,1,0,22,NULL,13
+"41435     ","Teknik Pengolahan Hasil Perkebunan Luar Domisili",NULL,0,0,1,0,21,NULL,13
+"41436     ","Pengolhana Hasil Perkebunan PDD 1",NULL,0,0,1,0,22,NULL,13
+"41511     ","Manajemen Agroindustri, Kampus K. Cianjur",NULL,0,0,1,0,21,NULL,13
+"41521     ","Teknologi Industri Pangan PDD",NULL,0,0,1,0,21,NULL,13
+"41522     ","Teknologi Industri Pangan PDD",NULL,0,0,1,0,21,NULL,13
+"41531     ","Teknologi Produksi Benih, Kampus K. Cianjur",NULL,0,0,1,0,21,NULL,13
+"41533     ","Teknologi Pengolahan Hasil Perkebunan, Kampus Singkawang",NULL,0,0,1,0,21,NULL,13
+"41534     ","Teknologi Produksi Ternak K.Rejang Lebong",NULL,0,0,1,0,21,NULL,13
+"41571     ","Teknologi Industri Pangan K. Nganjuk",NULL,0,0,1,0,21,NULL,13
+"41621     ","Teknologi Industri Pangan K. Temanggung",NULL,0,0,1,0,20,NULL,13
+"41631     ","Produksi Tanaman Holtikultura, Kampus Cianjur",NULL,0,0,1,0,20,NULL,13
+"41633     ","Produksi Tanaman Perkebunan K. Temanggung",NULL,0,0,1,0,20,NULL,13
+"41671     ","Teknologi Industri Pangan K. Sidoarjo",NULL,0,0,1,0,20,NULL,13
+"42301     ","Mekanisasi Perikanan",NULL,0,0,1,0,22,NULL,4
+"43353     ","Analis Kesehatan",NULL,0,0,1,0,23,NULL,11
+"43453     ","Analis Kesehatan",NULL,0,0,1,0,22,NULL,11
+"44001     ","Ilmu Matematika Dan Ilmu Pengetahuan Alam",NULL,0,0,1,0,40,NULL,4
+"44002     ","Ilmu Matematika",NULL,0,0,1,0,40,NULL,4
+"44101     ",Matematika,NULL,0,0,1,0,35,NULL,4
+"44201     ",Matematika,NULL,0,0,1,0,30,NULL,4
+"44401     ",Matematika,NULL,0,0,1,0,22,NULL,4
+"44601     ",Matematika,NULL,0,0,1,0,20,NULL,4
+"45001     ",Fisika,NULL,0,0,1,0,40,NULL,4
+"45101     ",Biofisika,NULL,0,0,1,0,35,NULL,4
+"45102     ",Fisika,NULL,0,0,1,0,35,NULL,4
+"45201     ","Fisika S-1",NULL,0,0,1,0,30,NULL,4
+"45401     ","Fisika Terapan",NULL,0,0,1,0,22,NULL,4
+"45402     ","Laboratorium Sains",NULL,0,0,1,0,22,NULL,4
+"45501     ","Fisika, Kampus K. Bandung",NULL,0,0,1,0,21,NULL,4
+"46001     ",Biologi,NULL,0,0,1,0,40,NULL,4
+"46002     ","Biosains Hewan",NULL,0,0,1,0,40,NULL,4
+"46003     ","Biologi Tumbuhan",NULL,0,0,1,0,40,NULL,4
+"46004     ",Mikrobiologi,NULL,0,0,1,0,40,NULL,4
+"46101     ",Biologi,NULL,0,0,1,0,35,NULL,4
+"46102     ","Biosains Hewan",NULL,0,0,1,0,35,NULL,4
+"46103     ","Biologi Tumbuhan",NULL,0,0,1,0,35,NULL,4
+"46104     ",Mikrobiologi,NULL,0,0,1,0,35,NULL,4
+"46201     ",Biologi,NULL,0,0,1,0,30,NULL,4
+"46202     ",Mikrobiologi,NULL,0,0,1,0,30,NULL,4
+"46203     ","Rekayasa Hayati",NULL,0,0,1,0,30,NULL,4
+"46401     ",Biologi,NULL,0,0,1,0,22,NULL,4
+"46501     ","Biologi, Kampus K. Bandung",NULL,0,0,1,0,21,NULL,4
+"46601     ","Biologi Terapan",NULL,0,0,1,0,20,NULL,4
+"47001     ","Ilmu Kimia",NULL,0,0,1,0,40,NULL,4
+"47101     ",Biokimia,NULL,0,0,1,0,35,NULL,4
+"47102     ",Kimia,NULL,0,0,1,0,35,NULL,4
+"47201     ",Kimia,NULL,0,0,1,0,30,NULL,4
+"47202     ",Biokimia,NULL,0,0,1,0,30,NULL,4
+"47401     ","Analisis Kimia",NULL,0,0,1,0,22,NULL,4
+"47501     ","Kimia, Kampus K. Bandung",NULL,0,0,1,0,21,NULL,4
+"47601     ",Kimia,NULL,0,0,1,0,20,NULL,4
+"48001     ",Farmasi,NULL,0,0,1,0,40,NULL,4
+"48091     ","Profesi Apoteker",NULL,0,0,1,0,25,NULL,4
+"48101     ",Farmasi,NULL,0,0,1,0,35,NULL,4
+"48102     ","Farmasi Klinik",NULL,0,0,1,0,35,NULL,4
+"48103     ","Farmasi Industri",NULL,0,0,1,0,35,NULL,4
+"48104     ",Herbal,NULL,0,0,1,0,35,NULL,4
+"48201     ",Farmasi,NULL,0,0,1,0,30,NULL,4
+"48202     ","Farmasi Klinik Dan Komunitas",NULL,0,0,1,0,30,NULL,4
+"48301     ",Farmasi,NULL,0,0,1,0,23,NULL,4
+"48401     ",Farmasi,NULL,0,0,1,0,22,NULL,4
+"48402     ","Analis Farmasi",NULL,0,0,1,0,22,NULL,4
+"48404     ","Analisa Farmasi Dan Makanan",NULL,0,0,1,0,22,NULL,4
+"48474     ","Jamu (Kampus Klaten)",NULL,0,0,1,0,22,NULL,4
+"48701     ",Farmasi,NULL,0,0,1,0,32,NULL,4
+"48901     ","Pendidikan Profesi Apoteker",NULL,0,0,1,0,25,NULL,4
+"49001     ","Ilmu Statistik",NULL,0,0,1,0,40,NULL,4
+"49101     ","Sains Komputasi/Statistika",NULL,0,0,1,0,35,NULL,4
+"49102     ","Statistika Terapan",NULL,0,0,1,0,35,NULL,4
+"49201     ",Statistik,NULL,0,0,1,0,30,NULL,4
+"49401     ",Statistika,NULL,0,0,1,0,22,NULL,4
+"49501     ",Statistika,NULL,0,0,1,0,23,NULL,4
+"49502     ","Komputasi Statistika",NULL,0,0,1,0,23,NULL,4
+"50001     ",Astronomi,NULL,0,0,1,0,40,NULL,4
+"50002     ","Ilmu Falaq",NULL,0,0,1,0,40,NULL,4
+"50101     ",Astronomi,NULL,0,0,1,0,35,NULL,4
+"50102     ","Ilmu Falaq",NULL,0,0,1,0,35,NULL,4
+"50201     ",Astronomi,NULL,0,0,1,0,30,NULL,4
+"50202     ","Ilmu Falaq",NULL,0,0,1,0,30,NULL,4
+"51001     ","Ilmu Geografi",NULL,0,0,1,0,40,NULL,4
+"51101     ",Geografi,NULL,0,0,1,0,35,NULL,4
+"51111     ","Penginderaan Jauh",NULL,0,0,1,0,35,NULL,4
+"51201     ",Geografi,NULL,0,0,1,0,30,NULL,4
+"51211     ","Kartografi Dan Penginderaan Jauh",NULL,0,0,1,0,30,NULL,4
+"51234     ","Pengolahan Hasil Perikanan",NULL,0,0,1,0,30,NULL,4
+"51411     ","Penginderaan Jauh Dan Sig",NULL,0,0,1,0,22,NULL,4
+"51611     ","Penginderaan Jauh",NULL,0,0,1,0,20,NULL,4
+"54001     ","Ilmu Pertanian",NULL,0,0,1,0,40,NULL,13
+"54002     ","Ilmu Ekonomi Pertanian",NULL,0,0,1,0,40,NULL,13
+"54003     ","Penyuluhan dan Komunikasi Pembangunan",NULL,0,0,1,0,40,NULL,13
+"54004     ","Agronomi Dan Hortikultura",NULL,0,0,1,0,40,NULL,13
+"54005     ","Ilmu Tanah",NULL,0,0,1,0,40,NULL,13
+"54006     ",Entomologi,NULL,0,0,1,0,40,NULL,13
+"54007     ","Pemuliaan Dan Bioteknologi Tanaman",NULL,0,0,1,0,40,NULL,13
+"54010     ","Klimatologi Terapan",NULL,0,0,1,0,40,NULL,13
+"54012     ","Ilmu Benih Dan Teknologi Benih",NULL,0,0,1,0,40,NULL,13
+"54031     ","Ilmu Peternakan",NULL,0,0,1,0,40,NULL,13
+"54032     ","Biologi Reproduksi",NULL,0,0,1,0,40,NULL,13
+"54033     ","Ilmu Produksi Dan Teknologi Peternakan",NULL,0,0,1,0,40,NULL,13
+"54034     ","Ilmu Nutrisi Dan Pakan",NULL,0,0,1,0,40,NULL,13
+"54041     ","Ilmu Kelautan",NULL,0,0,1,0,40,NULL,13
+"54042     ","Manajemen Sumber Daya Pantai",NULL,0,0,1,0,40,NULL,13
+"54043     ","Ilmu Akuakultur",NULL,0,0,1,0,40,NULL,13
+"54044     ","Pengelolaan Sumberdaya Perairan",NULL,0,0,1,0,40,NULL,13
+"54045     ","Pengelolaan Sumberdaya Pesisir Dan Lautan",NULL,0,0,1,0,40,NULL,13
+"54046     ","Ilmu Pengelolaan Daerah Aliran Sungai",NULL,0,0,1,0,40,NULL,13
+"54047     ","Teknologi Hasil Perikanan",NULL,0,0,1,0,40,NULL,13
+"54048     ","Teknologi Perikanan Tangkap",NULL,0,0,1,0,40,NULL,13
+"54051     ","Ilmu Kehutanan",NULL,0,0,1,0,40,NULL,13
+"54052     ","Rekayasa Dan Peningkatan Mutu Hasil Hutan",NULL,0,0,1,0,40,NULL,13
+"54053     ","Konservasi Biodiversitas Hutan",NULL,0,0,1,0,40,NULL,13
+"54054     ","Silvikultur Tropika",NULL,0,0,1,0,40,NULL,13
+"54055     ","Teknologi Serat Dan Komposit",NULL,0,0,1,0,40,NULL,13
+"54056     ","Manajemen Ekowisata Dan Jasa Lingkungan",NULL,0,0,1,0,40,NULL,13
+"54062     ","Kesehatan Masyarakat Veteriner",NULL,0,0,1,0,40,NULL,13
+"54064     ",Fitopatologi,NULL,0,0,1,0,40,NULL,13
+"54065     ",Entomologi,NULL,0,0,1,0,40,NULL,13
+"54066     ","Parasitologi Dan Entomologi Kesehatan",NULL,0,0,1,0,40,NULL,13
+"54067     ",Primatologi,NULL,0,0,1,0,40,NULL,13
+"54069     ","Ilmu Biomedis Hewan",NULL,0,0,1,0,40,NULL,13
+"54071     ","Ilmu-ilmu Faal Dan Khasiat Obat",NULL,0,0,1,0,40,NULL,13
+"54101     ",Agribisnis,NULL,0,0,1,0,35,NULL,13
+"54102     ","Ekonomi Pertanian",NULL,0,0,1,0,35,NULL,13
+"54103     ","Penyuluhan Dan Komunikasi Pembangunan Per",NULL,0,0,1,0,35,NULL,13
+"54104     ",Agronomi,NULL,0,0,1,0,35,NULL,13
+"54105     ","Ilmu Tanah",NULL,0,0,1,0,35,NULL,13
+"54106     ",Entomologi,NULL,0,0,1,0,35,NULL,13
+"54107     ",Bioteknologi,NULL,0,0,1,0,35,NULL,13
+"54108     ","Ilmu Pertanian",NULL,0,0,1,0,35,NULL,13
+"54109     ","Arsitektur Lansekap",NULL,0,0,1,0,35,NULL,13
+"54110     ","Klimatologi Terapan",NULL,0,0,1,0,35,NULL,13
+"54111     ",Agroekoteknologi,NULL,0,0,1,0,35,NULL,13
+"54112     ","Ilmu Benih Dan Teknologi Benih",NULL,0,0,1,0,35,NULL,13
+"54113     ","Bioteknologi Tanah Dan Lingkungan",NULL,0,0,1,0,35,NULL,13
+"54114     ","Pengendalian Hama Terpadu",NULL,0,0,1,0,35,NULL,13
+"54131     ","Ilmu Peternakan",NULL,0,0,1,0,35,NULL,13
+"54132     ","Biologi Reproduksi",NULL,0,0,1,0,35,NULL,13
+"54133     ","Ilmu Produksi Dan Teknologi Peternakan",NULL,0,0,1,0,35,NULL,13
+"54134     ","Ilmu Nutrisi Dan Pakan",NULL,0,0,1,0,35,NULL,13
+"54141     ","Ilmu Kelautan",NULL,0,0,1,0,35,NULL,13
+"54142     ","Ekonomi Sumber Daya",NULL,0,0,1,0,35,NULL,13
+"54143     ","Budidaya Perairan",NULL,0,0,1,0,35,NULL,13
+"54144     ","Pengelolaan Sumberdaya Perairan",NULL,0,0,1,0,35,NULL,13
+"54145     ","Pengelolaan Sumberdaya Pesisir Dan Lautan",NULL,0,0,1,0,35,NULL,13
+"54146     ","Ilmu Pengelolaan Daerah Aliran Sungai",NULL,0,0,1,0,35,NULL,13
+"54147     ","Teknologi Hasil Perikanan",NULL,0,0,1,0,35,NULL,13
+"54148     ","Bioteknologi Perikanan dan Kelautan",NULL,0,0,1,0,35,NULL,13
+"54149     ","Sistem Dan Pemodelan Perikanan Tangkap",NULL,0,0,1,0,35,NULL,13
+"54151     ","Ilmu Kehutanan",NULL,0,0,1,0,35,NULL,13
+"54152     ","Ilmu Dan Teknologi Hasil Hutan",NULL,0,0,1,0,35,NULL,13
+"54153     ","Konservasi Biodiversitas Tropika",NULL,0,0,1,0,35,NULL,13
+"54154     ","Silvikultur Tropika",NULL,0,0,1,0,35,NULL,13
+"54156     ","Manajemen Ekowisata Dan Jasa Lingkungan",NULL,0,0,1,0,35,NULL,13
+"54157     ","Manajemen Perkebunan",NULL,0,0,1,0,35,NULL,13
+"54161     ","Kedokteran Hewan",NULL,0,0,1,0,35,NULL,13
+"54162     ","Kesehatan Masyarakat Veteriner",NULL,0,0,1,0,35,NULL,13
+"54163     ","Agribisnis Veteriner",NULL,0,0,1,0,35,NULL,13
+"54164     ",Fitopatologi,NULL,0,0,1,0,35,NULL,13
+"54165     ",Entomologi,NULL,0,0,1,0,35,NULL,13
+"54166     ","Parasitologi Dan Entomologi Kesehatan",NULL,0,0,1,0,35,NULL,13
+"54167     ",Primatologi,NULL,0,0,1,0,35,NULL,13
+"54168     ","Mikrobiologi Medik",NULL,0,0,1,0,35,NULL,13
+"54169     ","Ilmu Biomedis Hewan",NULL,0,0,1,0,35,NULL,13
+"54170     ","Anatomi Dan Perkembangan Hewan",NULL,0,0,1,0,35,NULL,13
+"54171     ","Ilmu-ilmu Faal Dan Khasiat Obat",NULL,0,0,1,0,35,NULL,13
+"54192     ","Arsiktektur Lanskap",NULL,0,0,1,0,35,NULL,13
+"54201     ",Agribisnis,NULL,0,0,1,0,30,NULL,13
+"54202     ","Ekonomi Pertanian",NULL,0,0,1,0,30,NULL,13
+"54203     ","Penyuluhan dan Komunikasi Pertanian",NULL,0,0,1,0,30,NULL,13
+"54204     ","Agronomi Dan Hortikultura",NULL,0,0,1,0,30,NULL,13
+"54207     ",Bioteknologi,NULL,0,0,1,0,30,NULL,13
+"54211     ","Agroteknologi S1",NULL,0,0,1,0,30,NULL,13
+"54212     ","Agroteknologi PDD1",NULL,0,0,1,0,30,NULL,13
+"54214     ","Arsitektur Lanskap",NULL,0,0,1,0,30,NULL,13
+"54231     ","Ilmu Dan Industri Peternakan",NULL,0,0,1,0,30,NULL,13
+"54236     ","Peternakan (tek Hasil Ternak)          Po",NULL,0,0,1,0,30,NULL,13
+"54237     ","Peternakan (sosek Peternakan)          Po",NULL,0,0,1,0,30,NULL,13
+"54238     ","Peternakan (tek Produksi Ternak)",NULL,0,0,1,0,30,NULL,13
+"54239     ","Peternakan (nutrisi & Tek Pakan)",NULL,0,0,1,0,30,NULL,13
+"54241     ","Ilmu Dan Teknologi Kelautan",NULL,0,0,1,0,30,NULL,13
+"54242     ","Budidaya Perairan",NULL,0,0,1,0,30,NULL,13
+"54243     ","Budidaya Perairan",NULL,0,0,1,0,30,NULL,13
+"542431    ","Budidaya Perairan PDD1",NULL,0,0,1,0,30,NULL,4
+"54244     ","Teknologi Hasil Perairan",NULL,0,0,1,0,30,NULL,13
+"54245     ","Agrobisnis Perikanan",NULL,0,0,1,0,30,NULL,13
+"54246     ","Pemanfaatan Sumber Daya Perairan",NULL,0,0,1,0,30,NULL,13
+"54247     ","Budidaya Perikanan",NULL,0,0,1,0,30,NULL,13
+"54248     ",Teknobiologi,NULL,0,0,1,0,30,NULL,13
+"54249     ","Teknologi Industri Hasil Perikanan",NULL,0,0,1,0,30,NULL,13
+"54251     ",Kehutanan,NULL,0,0,1,0,30,NULL,13
+"54252     ",Kehutanan,NULL,0,0,1,0,30,NULL,13
+"54253     ","Budidaya Perairan K. Sintang",NULL,0,0,1,0,30,NULL,13
+"54254     ","Kehutanan PDD 1",NULL,0,0,1,0,30,NULL,13
+"54256     ","Kehutanan (konservasi Sd Hutan)",NULL,0,0,1,0,30,NULL,13
+"54257     ","Kehutanan (tek Hasil Hutan)",NULL,0,0,1,0,30,NULL,13
+"54258     ","Kehutanan (manajemen Hutan)",NULL,0,0,1,0,30,NULL,13
+"54259     ","Kehutanan (budidaya Hutan)",NULL,0,0,1,0,30,NULL,13
+"54261     ","Kedokteran Hewan",NULL,0,0,1,0,30,NULL,13
+"54262     ","Kedokteran Hewan PDD1",NULL,0,0,1,0,30,NULL,4
+"54271     ","Budidaya Perkebunan",NULL,0,0,1,0,30,NULL,13
+"54272     ","Manajemen Sumberdaya Pesisir",NULL,0,0,1,0,30,NULL,13
+"54281     ","Agroekoteknologi, Kampus Dharmasraya",NULL,0,0,1,0,30,NULL,13
+"54290     ","Agribisnis (eko Sumberdaya Dan Lingk)",NULL,0,0,1,0,30,NULL,13
+"54291     ","Agribisnis (ilmu Keluarga Dan Konsumen)",NULL,0,0,1,0,30,NULL,13
+"54292     ","Agroteknologi (arsitektur Lanskap)",NULL,0,0,1,0,30,NULL,13
+"54293     ","Agroteknologi (pemuliaan)",NULL,0,0,1,0,30,NULL,13
+"54294     ","Agroteknologi (ilmu Tanah)",NULL,0,0,1,0,30,NULL,13
+"54295     ","Agroteknologi (happen)",NULL,0,0,1,0,30,NULL,13
+"54297     ","Agroteknologi (agro & Hortikultura)",NULL,0,0,1,0,30,NULL,13
+"54298     ","Agribisnis (kom & Pengemb Masy)",NULL,0,0,1,0,30,NULL,13
+"54299     ","Agribisnis (sosek)",NULL,0,0,1,0,30,NULL,13
+"54310     ",Klimatologi,NULL,0,0,1,0,23,NULL,4
+"54312     ","Teknologi Industri Hortikultura",NULL,0,0,1,0,23,NULL,13
+"54315     ","Penyuluhan Pertanian",NULL,0,0,1,0,23,NULL,13
+"54316     ","Penyuluhan Perternakan",NULL,0,0,1,0,23,NULL,13
+"54331     ","Manajemen Bisnis Unggas",NULL,0,0,1,0,23,NULL,13
+"54343     ","Teknologi Penangkapan Ikan",NULL,0,0,1,0,30,NULL,13
+"54344     ","Teknologi Pengolahan Hasil Perikanan",NULL,0,0,1,0,23,NULL,13
+"54345     ","Teknologi Pengelolaan Sumberdaya Perairan",NULL,0,0,1,0,23,NULL,13
+"54346     ","Teknologi Akuakultur",NULL,0,0,1,0,23,NULL,13
+"54356     ","Penyuluhan Perikanan",NULL,0,0,1,0,23,NULL,13
+"54357     ","Manajemen Perkebunan",NULL,0,0,1,0,23,NULL,13
+"54358     ","Penyuluhan Perkebunan",NULL,0,0,1,0,23,NULL,13
+"54371     ","Budidaya Perkebunan",NULL,0,0,1,0,23,NULL,13
+"54401     ",Agribisnis,NULL,0,0,1,0,22,NULL,13
+"54403     ",Komunikasi,NULL,0,0,1,0,22,NULL,13
+"54410     ",Klimatologi,NULL,0,0,1,0,22,NULL,13
+"54411     ",Agronomi,NULL,0,0,1,0,22,NULL,13
+"54412     ",Hortikultura,NULL,0,0,1,0,22,NULL,13
+"54414     ","Arsitektur Lansekap",NULL,0,0,1,0,22,NULL,13
+"54415     ","Manajemen Lahan Kering",NULL,0,0,1,0,22,NULL,13
+"54416     ","Budidaya Pertanian",NULL,0,0,1,0,22,NULL,13
+"54417     ","Hama Dan Penyakit Tumbuhan",NULL,0,0,1,0,22,NULL,13
+"54418     ","Hama dan Penyakit Ikan",NULL,0,0,1,0,22,NULL,4
+"54431     ","Nutrisi Dan Makanan Ternak",NULL,0,0,1,0,22,NULL,13
+"54432     ","Produksi Ternak",NULL,0,0,1,0,22,NULL,13
+"54433     ","Budidaya Peternakan",NULL,0,0,1,0,22,NULL,13
+"54434     ","Teknologi Hasil Ternak",NULL,0,0,1,0,22,NULL,13
+"54435     ","Agribisnis Peternakan",NULL,0,0,1,0,22,NULL,13
+"54442     ",Biologi,NULL,0,0,1,0,22,NULL,13
+"54443     ","Budidaya Kelautan",NULL,0,0,1,0,22,NULL,13
+"54444     ","Teknologi Hasil Perikanan",NULL,0,0,1,0,22,NULL,13
+"54445     ","Agribisnis Perikanan",NULL,0,0,1,0,22,NULL,13
+"54446     ","Pemanfaatan Sumber Daya Perairan",NULL,0,0,1,0,22,NULL,13
+"54447     ","Budidaya Perikanan",NULL,0,0,1,0,22,NULL,13
+"54448     ","Budidaya Perikanan PDD1",NULL,0,0,1,0,22,NULL,13
+"54451     ","Teknologi Hasil Hutan",NULL,0,0,1,0,22,NULL,13
+"54452     ","Budidaya Hutan",NULL,0,0,1,0,22,NULL,13
+"54453     ",Ekowisata,NULL,0,0,1,0,22,NULL,13
+"54454     ","Manajemen Hutan",NULL,0,0,1,0,22,NULL,13
+"54455     ","Penyuluhan Kehutanan",NULL,0,0,1,0,22,NULL,13
+"54457     ","Pengelolaan Perkebunan",NULL,0,0,1,0,22,NULL,13
+"54461     ","Kesehatan Hewan",NULL,0,0,1,0,22,NULL,13
+"54462     ",Perunggasan,NULL,0,0,1,0,22,NULL,13
+"54463     ","Kesehatan Satwa Liar",NULL,0,0,1,0,22,NULL,13
+"54471     ","Budidaya Hasil Perkebunan Kelapa Sawit",NULL,0,0,1,0,22,NULL,13
+"54501     ",agribisnis,NULL,0,0,1,0,21,NULL,13
+"54511     ","Teknologi industri benih",NULL,0,0,1,0,21,NULL,13
+"54512     ","Teknologi industri benih - PDD",NULL,0,0,1,0,21,NULL,13
+"54531     ","Manajemen Bisnis Unggas, Kampus K. Cianjur",NULL,0,0,1,0,21,NULL,13
+"54532     ","Produksi Ternak Kampus PDD",NULL,0,0,1,0,21,NULL,13
+"54544     ","Teknologi Pengolahan Hasil Perikanan, Kampus Kabupaten Buru",NULL,0,0,1,0,21,NULL,13
+"54545     ","Teknologi Hasil Pertanian PDD",NULL,0,0,1,0,21,NULL,13
+"54547     ","Budidaya Perikanan PDD",NULL,0,0,1,0,21,NULL,13
+"54553     ","Ekowisata PDD",NULL,0,0,1,0,21,NULL,13
+"54555     ","Penyuluhan Kehutanan",NULL,0,0,1,0,21,NULL,13
+"54561     ","Kesehatan Hewan Kampus Kab. Sumba Timur",NULL,0,0,1,0,21,NULL,13
+"54571     ","Budidaya Tanaman Hortikultura K. Rejang Lebong",NULL,0,0,1,0,21,NULL,13
+"54572     ","Budidaya Tanaman Perkebunan PDD",NULL,0,0,1,0,21,NULL,13
+"54577     ","Budidaya Perikanan, Kampus Kabupaten Buru",NULL,0,0,1,0,21,NULL,13
+"54601     ",Pertanian,NULL,0,0,1,0,20,NULL,13
+"54610     ",Klimatologi,NULL,0,0,1,0,20,NULL,13
+"54631     ",Peternakan,NULL,0,0,1,0,20,NULL,13
+"54643     ",Akuakultur,NULL,0,0,1,0,20,NULL,13
+"54644     ","Teknologi Hasil Pertanian",NULL,0,0,1,0,20,NULL,13
+"54647     ","Budidaya Perikanan",NULL,0,0,1,0,20,NULL,13
+"54657     ","Budidaya Perikanan, Kampus Cianjur",NULL,0,0,1,0,20,NULL,13
+"54671     ","Budidaya Tanaman",NULL,0,0,1,0,20,NULL,13
+"54699     ","Agribisnis Pertanian K. Muko muko",NULL,0,0,1,0,20,NULL,13
+"54961     ","Profesi Dokter Hewan",NULL,0,0,1,0,25,NULL,13
+"55001     ","Ilmu Komputer",NULL,0,0,1,0,40,NULL,12
+"55101     ","Ilmu Komputer",NULL,0,0,1,0,35,NULL,12
+"55120     ","Ilmu Kepolisian",NULL,0,0,1,0,35,NULL,12
+"55201     ","Ilmu Komputer-Teknik Informatika",NULL,0,0,1,0,30,NULL,12
+"55202     ","Teknik Informatika",NULL,0,0,1,0,30,NULL,12
+"55220     ","Ilmu Kepolisian",NULL,0,0,1,0,30,NULL,12
+"55221     ",Kepolisian,NULL,0,0,1,0,23,NULL,12
+"55301     ","Teknik Informatika",NULL,0,0,1,0,23,NULL,12
+"55401     ","Teknik Informatika",NULL,0,0,1,0,22,NULL,12
+"55501     ","Teknik Informatika",NULL,0,0,1,0,21,NULL,12
+"55502     ","Teknik Informatika PDD 1",NULL,0,0,1,0,21,NULL,12
+"55571     ","Teknik Informatika (Kampus Sumenep)",NULL,0,0,1,0,21,NULL,12
+"55581     ","Teknik Informatika, Kampus Lamongan",NULL,0,0,1,0,21,NULL,12
+"55601     ","Teknik Informatika",NULL,0,0,1,0,20,NULL,12
+"56101     ","Sistem Komputer",NULL,0,0,1,0,35,NULL,12
+"56201     ","Sistem Komputer",NULL,0,0,1,0,30,NULL,12
+"56301     ","Teknik Komputer",NULL,0,0,1,0,23,NULL,12
+"56304     ","Teknologi Jaringan",NULL,0,0,1,0,23,NULL,12
+"56305     ","Teknologi Komunikasi Mobil",NULL,0,0,1,0,23,NULL,12
+"56401     ","Teknik Informatika D3",NULL,0,0,1,0,22,NULL,12
+"56402     ","Teknik Komputer",NULL,0,0,1,0,22,NULL,12
+"56404     ","Teknologi Komunikasi Mobil",NULL,0,0,1,0,22,NULL,12
+"56501     ","Teknik Komputer",NULL,0,0,1,0,20,NULL,12
+"56505     ","Teknologi Komunikasi Mobil",NULL,0,0,1,0,21,NULL,12
+"56571     ","Teknik Komputer dan Jaringan Kampus Kabupaten Manokwari",NULL,0,0,1,0,21,NULL,12
+"56601     ","Teknik Komputer",NULL,0,0,1,0,20,NULL,12
+"56602     ",Pemrograman,NULL,0,0,1,0,20,NULL,12
+"57101     ","Ilmu Komputer",NULL,0,0,1,0,35,NULL,12
+"57201     ","Ilmu Komputer-Sistem Informasi",NULL,0,0,1,0,30,NULL,12
+"57202     ","Keamanan Sistem Informasi",NULL,0,0,1,0,30,NULL,12
+"57203     ","PJJSistem Informasi",NULL,0,0,1,0,30,NULL,12
+"57207     ","Manajemen Informasi Komunikasi",NULL,0,0,1,0,30,NULL,12
+"57301     ","Manajemen Informatika",NULL,0,0,1,0,23,NULL,12
+"57302     ","Keamanan Sistem Informasi",NULL,0,0,1,0,23,NULL,12
+"57303     ","Sistem Informasi Industri",NULL,0,0,1,0,23,NULL,12
+"57304     ","Manajemen Informatika",NULL,0,0,1,0,30,NULL,4
+"57401     ","Manajemen Informatika D3",NULL,0,0,1,0,22,NULL,12
+"57402     ","Komputerisasi Akuntansi",NULL,0,0,1,0,22,NULL,12
+"57501     ","Manajemen Informatika",NULL,0,0,1,0,21,NULL,12
+"57502     ","Komputerisasi Akuntansi",NULL,0,0,1,0,21,NULL,12
+"57503     ","Komputer Akuntansi",NULL,0,0,1,0,21,NULL,12
+"57504     ","Komputer akuntansi PDD",NULL,0,0,1,0,21,NULL,12
+"57571     ","Manajemen Informatika K. Sidoarjo",NULL,0,0,1,0,21,NULL,12
+"57581     ","Manajemen Informatika PDD",NULL,0,0,1,0,21,NULL,12
+"57582     ","Manajemen Informatika PDD",NULL,0,0,1,0,21,NULL,12
+"57601     ","Manajemen Informatika",NULL,0,0,1,0,20,NULL,12
+"57602     ","Komputer Akuntansi",NULL,0,0,1,0,20,NULL,12
+"57671     ","Manajemen Informatika K. Lampung Tengah",NULL,0,0,1,0,20,NULL,12
+"57681     ","Manajemen Informatika K. Lampung Tengah",NULL,0,0,1,0,20,NULL,12
+"58201     ","Teknik Perangkat Lunak",NULL,0,0,1,0,30,NULL,12
+"59101     ","Sistem Informasi",NULL,0,0,1,0,35,NULL,12
+"59102     ","Sistem Pertahanan",NULL,0,0,1,0,35,NULL,12
+"59201     ","Sistem dan Teknologi Informasi",NULL,0,0,1,0,30,NULL,12
+"59202     ","Ilmu Komputasi",NULL,0,0,1,0,30,NULL,12
+"59601     ","Informasi Teknologi",NULL,0,0,1,0,20,NULL,12
+"60001     ","Ilmu Ekonomi",NULL,0,0,1,0,40,NULL,14
+"60002     ","Ekonomi Syariah",NULL,0,0,1,0,40,NULL,14
+"60101     ","Ekonomi Pembangunan dan Perencanaan",NULL,0,0,1,0,35,NULL,14
+"60102     ","Ekonomi Pembangunan",NULL,0,0,1,0,35,NULL,14
+"60103     ","Ekonomi Pertahanan",NULL,0,0,1,0,35,NULL,14
+"60104     ","Keuangan Syariah",NULL,0,0,1,0,35,NULL,14
+"60130     ","Ekonomi Islam",NULL,0,0,1,0,35,NULL,14
+"60201     ","Ekonomi Pembangunan",NULL,0,0,1,0,30,NULL,14
+"60202     ","Ekonomi Syariah (Ekonomi Islam )",NULL,0,0,1,0,30,NULL,14
+"60203     ","Bisnis Islam",NULL,0,0,1,0,30,NULL,14
+"60204     ","Keuangan Syariah",NULL,0,0,1,0,30,NULL,14
+"60205     ","Ekonomi Buddhis",NULL,0,0,1,0,30,NULL,14
+"60206     ","Ekonomi Syariah",NULL,0,0,1,0,30,NULL,14
+"60270     ","Ekonomi Pembangunan (Kampus Payakumbuh)",NULL,0,0,1,0,30,NULL,14
+"60304     ","Keuangan dan Perbankan Syariah",NULL,0,0,1,0,23,NULL,14
+"60401     ","Ekonomi Pembangunan",NULL,0,0,1,0,22,NULL,14
+"60404     ","Keuangan Syariah",NULL,0,0,1,0,22,NULL,14
+"61001     ","Ilmu Manajemen",NULL,0,0,1,0,40,NULL,14
+"61011     ","Manajemen Syariah",NULL,0,0,1,0,40,NULL,14
+"61101     ","Ilmu Manajemen",NULL,0,0,1,0,35,NULL,14
+"61102     ","Ilmu Manajemen",NULL,0,0,1,0,35,NULL,14
+"61103     ","Manajemen Properti",NULL,0,0,1,0,35,NULL,14
+"61104     ","Ilmu Kebencanaan",NULL,0,0,1,0,35,NULL,14
+"61105     ","Manajemen Bisnis",NULL,0,0,1,0,35,NULL,14
+"61106     ","Manajemen Keuangan Mikro Terpadu",NULL,0,0,1,0,35,NULL,14
+"61107     ","Keuangan Daerah",NULL,0,0,1,0,35,NULL,14
+"61108     ","Manajemen Pertahanan",NULL,0,0,1,0,35,NULL,14
+"61111     ","Manajemen Syariah",NULL,0,0,1,0,35,NULL,14
+"61171     ","Manajemen (Kampus Jakarta)",NULL,0,0,1,0,35,NULL,14
+"61201     ","Manajemen - S1",NULL,0,0,1,0,30,NULL,14
+"61202     ","Manajemen Pembangunan Daerah",NULL,0,0,1,0,30,NULL,14
+"61203     ","Manajemen Sumber Daya Manusia",NULL,0,0,1,0,30,NULL,14
+"61204     ","Manajemen Kebijakan Publik",NULL,0,0,1,0,30,NULL,14
+"61205     ","Manajemen Bisnis",NULL,0,0,1,0,30,NULL,14
+"61206     ","Ekonomi dan Perbankan Islam",NULL,0,0,1,0,30,NULL,14
+"61207     ","PJJ Manajemen",NULL,0,0,1,0,30,NULL,14
+"61211     ","Manajemen Keuangan Syariah",NULL,0,0,1,0,30,NULL,14
+"61271     ","Manajemen PDD 1",NULL,0,0,1,0,30,NULL,14
+"61301     ","Keuangan Daerah",NULL,0,0,1,0,23,NULL,14
+"61304     ","Manajemen Pemasaran",NULL,0,0,1,0,23,NULL,14
+"61305     ","Manajemen Perusahaan",NULL,0,0,1,0,23,NULL,14
+"61306     ",Keuangan,NULL,0,0,1,0,23,NULL,14
+"61307     ","Manajemen Aset",NULL,0,0,1,0,23,NULL,14
+"61308     ","Manajemen Pertahanan",NULL,0,0,1,0,23,NULL,14
+"61309     ","Manajemen Pertahanan Matra Laut Aspek Dar",NULL,0,0,1,0,23,NULL,14
+"61310     ","Analis Keuangan",NULL,0,0,1,0,23,NULL,14
+"61401     ","Administrasi Perkantoran",NULL,0,0,1,0,22,NULL,14
+"61402     ","Bisnis Internasional",NULL,0,0,1,0,22,NULL,14
+"61403     ","Administrasi Perpajakan",NULL,0,0,1,0,22,NULL,14
+"61404     ","Manajemen Pemasaran",NULL,0,0,1,0,22,NULL,14
+"61405     ","Manajemen Bandar Udara",NULL,0,0,1,0,22,NULL,14
+"61406     ",Keuangan,NULL,0,0,1,0,22,NULL,14
+"61407     ","Manajemen Transportasi Laut",NULL,0,0,1,0,22,NULL,14
+"61408     ","Manajemen Transportasi",NULL,0,0,1,0,22,NULL,14
+"61409     ","Keuangan Negara",NULL,0,0,1,0,22,NULL,14
+"61410     ","Manajemen Sumber Daya Manusia",NULL,0,0,1,0,22,NULL,14
+"61411     ","Manajemen Produksi",NULL,0,0,1,0,22,NULL,14
+"61501     ","Manajemen Administrasi",NULL,0,0,1,0,21,NULL,14
+"61504     ","Manajemen Pemasaran",NULL,0,0,1,0,21,NULL,14
+"61505     ","Manajemen Aset",NULL,0,0,1,0,21,NULL,14
+"61506     ","Keuangan Dan Perbankan",NULL,0,0,1,0,20,NULL,14
+"61507     ","Manajemen Bandar Udara",NULL,0,0,1,0,21,NULL,14
+"61601     ",Akuntansi,NULL,0,0,1,0,20,NULL,14
+"61602     ","Manajemen Perdagangan",NULL,0,0,1,0,20,NULL,14
+"61603     ","Manajemen Perpajakan",NULL,0,0,1,0,20,NULL,14
+"61604     ","Manajemen Pemasaran",NULL,0,0,1,0,20,NULL,14
+"61605     ","Manajemen Aset",NULL,0,0,1,0,20,NULL,14
+"61606     ","Akutansi Bank Syariah",NULL,0,0,1,0,20,NULL,14
+"62001     ","Ilmu Akuntansi",NULL,0,0,1,0,40,NULL,14
+"62101     ",Akuntansi,NULL,0,0,1,0,35,NULL,14
+"62102     ","Akuntnasi PDD1",NULL,0,0,1,0,30,NULL,14
+"62103     ","Magister Akuntansi",NULL,0,0,1,0,35,NULL,14
+"62201     ",Akuntansi,NULL,0,0,1,0,30,NULL,14
+"62202     ","Akuntansi Syari`ah",NULL,0,0,1,0,30,NULL,14
+"62204     ","Akuntansi Bank Syariah",NULL,0,0,1,0,30,NULL,14
+"62301     ","Akuntansi D4",NULL,0,0,1,0,23,NULL,14
+"62302     ",Perpajakan,NULL,0,0,1,0,23,NULL,14
+"62303     ","Akuntansi Keuangan Publik",NULL,0,0,1,0,23,NULL,14
+"62304     ","Manajemen Akuntansi Hospitality",NULL,0,0,1,0,23,NULL,14
+"62305     ","Manajemen Kuliner",NULL,0,0,1,0,23,NULL,14
+"62306     ",Akuntansi,NULL,0,0,1,0,23,NULL,14
+"62401     ",Akuntansi,NULL,0,0,1,0,22,NULL,14
+"62402     ",Akuntansi,NULL,0,0,1,0,22,NULL,14
+"62408     ","Manajemen Transportasi Udara",NULL,0,0,1,0,23,NULL,14
+"62409     ","Manajemen Keselamatan Transportasi Jalan",NULL,0,0,1,0,23,NULL,14
+"62501     ","Akuntansi PDD",NULL,0,0,1,0,21,NULL,14
+"62502     ","Akuntansi PDD",NULL,0,0,1,0,21,NULL,14
+"62601     ",Akuntansi,NULL,0,0,1,0,20,NULL,14
+"62604     ","Akuntansi Bank Syariah",NULL,0,0,1,0,20,NULL,14
+"62901     ","Pendidikan Profesi Akuntansi",NULL,0,0,1,0,25,NULL,14
+"63001     ",Administrasi,NULL,0,0,1,0,40,NULL,3
+"63002     ","Ilmu Administrasi Publik",NULL,0,0,1,0,40,NULL,3
+"63101     ","Administrasi Dan Kebijakan Publik",NULL,0,0,1,0,35,NULL,3
+"63102     ","Ekonomi Terapan",NULL,0,0,1,0,35,NULL,3
+"63103     ","Administrasi Negara",NULL,0,0,1,0,35,NULL,3
+"63111     ","Administrasi Bisnis",NULL,0,0,1,0,35,NULL,3
+"63112     ","Administrasi Pertanahan",NULL,0,0,1,0,35,NULL,3
+"63171     ","Administrasi Bisnis (Kampus Jakarta)",NULL,0,0,1,0,35,NULL,3
+"63201     ","Administrasi Negara",NULL,0,0,1,0,30,NULL,3
+"63211     ","Administrasi Bisnis",NULL,0,0,1,0,30,NULL,3
+"63212     ","Administrasi Fiskal",NULL,0,0,1,0,30,NULL,2
+"63221     ","Ilmu Administrasi Perpajakan",NULL,0,0,1,0,30,NULL,3
+"63301     ","Administrasi Negara",NULL,0,0,1,0,23,NULL,3
+"63311     ","Administrasi Bisnis",NULL,0,0,1,0,23,NULL,3
+"63312     ",Sekretari,NULL,0,0,1,0,23,NULL,3
+"63314     ","Manajemen Logistik dan Keuangan  Matra Laut",NULL,0,0,1,0,23,NULL,3
+"63315     ","Teknik Logistik",NULL,0,0,1,0,30,NULL,12
+"63401     ",Administrasi,NULL,0,0,1,0,22,NULL,3
+"63411     ","Administrasi Bisnis",NULL,0,0,1,0,22,NULL,3
+"63412     ",Kesekretariatan,NULL,0,0,1,0,22,NULL,3
+"63413     ","Administrasi Keuangan",NULL,0,0,1,0,22,NULL,3
+"63414     ","Administrasi Logistik",NULL,0,0,1,0,22,NULL,3
+"63421     ","Administrasi Perpajakan",NULL,0,0,1,0,22,NULL,3
+"63511     ","Administrasi Bisnis K. Blitar",NULL,0,0,1,0,21,NULL,3
+"63512     ",Sekretari,NULL,0,0,1,0,21,NULL,3
+"63611     ","Administrasi Bisnis",NULL,0,0,1,0,20,NULL,3
+"63612     ",Kesekretariatan,NULL,0,0,1,0,20,NULL,3
+"64001     ","Hubungan Internasional",NULL,0,0,1,0,40,NULL,3
+"64101     ","Hubungan Internasional",NULL,0,0,1,0,35,NULL,3
+"64114     ",Logistik,NULL,0,0,1,0,35,NULL,3
+"64201     ","Hubungan Internasional",NULL,0,0,1,0,30,NULL,3
+"64211     ","Bisnis Musik",NULL,0,0,1,0,30,NULL,3
+"65001     ","Ilmu Pemerintahan",NULL,0,0,1,0,40,NULL,3
+"65101     ","Ilmu Pemerintahan",NULL,0,0,1,0,35,NULL,3
+"65201     ","Ilmu Pemerintahan",NULL,0,0,1,0,30,NULL,3
+"65301     ","Manajemen Pemerintahan",NULL,0,0,1,0,23,NULL,3
+"65401     ","Administrasi Pemerintahan",NULL,0,0,1,0,22,NULL,3
+"66001     ",Kriminologi,NULL,0,0,1,0,40,NULL,3
+"66101     ",Kriminologi,NULL,0,0,1,0,35,NULL,3
+"66201     ",Akuntansi,NULL,0,0,1,0,30,NULL,3
+"66202     ",Kriminologi,NULL,0,0,1,0,30,NULL,3
+"67001     ","Ilmu Politik",NULL,0,0,1,0,40,NULL,3
+"67101     ","Ilmu Politik",NULL,0,0,1,0,35,NULL,3
+"67201     ","Ilmu Politik",NULL,0,0,1,0,30,NULL,3
+"68001     ","Ilmu Sosial",NULL,0,0,1,0,40,NULL,3
+"68101     ","Ilmu Sosial",NULL,0,0,1,0,35,NULL,3
+"68201     ","Ilmu Sosiatri",NULL,0,0,1,0,30,NULL,3
+"68401     ","Pembangunan Masyarakat",NULL,0,0,1,0,22,NULL,3
+"69001     ","Ilmu Sosiologi",NULL,0,0,1,0,40,NULL,3
+"69101     ",Sosiologi,NULL,0,0,1,0,35,NULL,3
+"69201     ",Sosiologi,NULL,0,0,1,0,30,NULL,3
+"69202     ","Sosiologi Agama",NULL,0,0,1,0,30,NULL,3
+"70001     ","Ilmu Komunikasi",NULL,0,0,1,0,40,NULL,3
+"70033     ","Komunikasi dan Penyiaran Islam",NULL,0,0,1,0,40,NULL,3
+"70034     ","Dirasah Islamiyah / Pendidikan Islam",NULL,0,0,1,0,40,NULL,3
+"70101     ","Ilmu Komunikasi",NULL,0,0,1,0,35,NULL,3
+"70109     ",Kepenyuluhan,NULL,0,0,1,0,35,NULL,3
+"70130     ","Ilmu Dakwah",NULL,0,0,1,0,35,NULL,3
+"70131     ","Pengembangan Masyarakat Islam",NULL,0,0,1,0,35,NULL,3
+"70133     ","Komunikasi dan Penyiaran Islam",NULL,0,0,1,0,35,NULL,3
+"70134     ","Dirasah Islamiyah / Pendidikan Islam",NULL,0,0,1,0,35,NULL,3
+"70135     ","Penerangan Agama Hindu (Dharmaduta)",NULL,0,0,1,0,35,NULL,3
+"70136     ","Pemikiran Islam",NULL,0,0,1,0,35,NULL,3
+"70201     ","Ilmu Komunikasi",NULL,0,0,1,0,30,NULL,3
+"70202     ",Jurnalistik,NULL,0,0,1,0,30,NULL,3
+"70208     ","Manajemen Teknik Rekayasa",NULL,0,0,1,0,30,NULL,3
+"70209     ",Kepenyuluhan,NULL,0,0,1,0,30,NULL,3
+"70230     ","Ilmu Dakwah",NULL,0,0,1,0,30,NULL,3
+"70231     ","Pengembangan Masyarakat Islam",NULL,0,0,1,0,30,NULL,3
+"70232     ","Bimbingan dan Konseling  Islam",NULL,0,0,1,0,30,NULL,3
+"70233     ","Komunikasi dan Penyiaran Islam",NULL,0,0,1,0,30,NULL,3
+"70234     ","Dirasah Islamiyah / Pendidikan Islam",NULL,0,0,1,0,30,NULL,3
+"70235     ","Penerangan Agama Hindu (Dharmaduta)",NULL,0,0,1,0,30,NULL,3
+"70236     ",Kepanditaan,NULL,0,0,1,0,30,NULL,3
+"70302     ",Jurnalistik,NULL,0,0,1,0,23,NULL,3
+"70305     ",Penyiaran,NULL,0,0,1,0,23,NULL,3
+"70306     ","Manajemen Produksi Berita",NULL,0,0,1,0,23,NULL,3
+"70307     ","Manajemen Teknik Studio Produksi",NULL,0,0,1,0,23,NULL,3
+"70401     ","Hubungan Masyarakat",NULL,0,0,1,0,22,NULL,3
+"70402     ",Jurnalistik,NULL,0,0,1,0,22,NULL,3
+"70403     ","Komunikasi Massa",NULL,0,0,1,0,22,NULL,3
+"70404     ",Periklanan,NULL,0,0,1,0,22,NULL,3
+"70405     ",Penyiaran,NULL,0,0,1,0,22,NULL,3
+"70501     ","Hubungan Masyarakat",NULL,0,0,1,0,21,NULL,3
+"7051      ","Manajemen Informatika, Kampus K. Pekanbaru",NULL,0,0,1,0,21,NULL,3
+"71101     ","Ilmu Perpustakaan",NULL,0,0,1,0,35,NULL,2
+"71102     ","Teknologi Informasi untuk Manajemen SD",NULL,0,0,1,0,35,NULL,4
+"71201     ","Ilmu Perpustakaan",NULL,0,0,1,0,30,NULL,2
+"71202     ","Ilmu Informasi dan Perpustakaan",NULL,0,0,1,0,30,NULL,2
+"71302     ",Kearsipan,NULL,0,0,1,0,23,NULL,2
+"71401     ","Ilmu Perpustakaan",NULL,0,0,1,0,22,NULL,2
+"71402     ",Kearsipan,NULL,0,0,1,0,22,NULL,2
+"71441     ","Hubungan Masyarakat",NULL,0,0,1,0,30,NULL,2
+"71501     ",Perpustakaan,NULL,0,0,1,0,21,NULL,2
+"72001     ","Ilmu Kesejahteraan Sosial",NULL,0,0,1,0,40,NULL,3
+"72101     ","Ilmu Kesejahteraan Sosial",NULL,0,0,1,0,35,NULL,3
+"72102     ","Pekerjaan Sosial",NULL,0,0,1,0,35,NULL,3
+"72201     ","Ilmu Kesejahteraan Sosial",NULL,0,0,1,0,30,NULL,3
+"72302     ","Pekerjaan Sosial",NULL,0,0,1,0,23,NULL,3
+"72401     ","Pekerja Sosial",NULL,0,0,1,0,22,NULL,3
+"73001     ","Ilmu Psikologi",NULL,0,0,1,0,40,NULL,3
+"73101     ",Psikologi,NULL,0,0,1,0,35,NULL,3
+"73102     ","Perubahan dan Pengembangan Organisasi",NULL,0,0,1,0,35,NULL,3
+"73103     ","Psikologi Profesi",NULL,0,0,1,0,35,NULL,3
+"73104     ","Psikologi Terapan",NULL,0,0,1,0,35,NULL,3

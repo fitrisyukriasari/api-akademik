@@ -1,0 +1,24 @@
+id_jenj_didik,nm_jenj_didik,u_jenj_lemb,u_jenj_org
+0,"Tidak sekolah",0,1
+1,PAUD,1,0
+2,"TK / sederajat",1,0
+3,"Putus SD",0,1
+4,"SD / sederajat",1,1
+5,"SMP / sederajat",1,1
+6,"SMA / sederajat",1,1
+7,"Paket A",1,0
+8,"Paket B",1,0
+9,"Paket C",1,0
+20,D1,1,1
+21,D2,1,1
+22,D3,1,1
+23,D4,1,1
+25,Profesi,1,1
+30,S1,1,1
+32,Sp-1,1,1
+35,S2,1,1
+37,Sp-2,1,1
+40,S3,1,1
+90,"Non formal",1,0
+91,Informal,1,0
+99,Lainnya,1,0

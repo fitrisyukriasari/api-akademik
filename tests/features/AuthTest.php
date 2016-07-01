@@ -17,47 +17,32 @@ class AuthTest extends TestCase
 
     public function testClientCanRetrieveUserInfoFromToken()
     {
-        $this->setUpACL();
-        $headers = $this->headers(User::first());
-
-        $this->get('/auth/user', $headers);
+        $this->get('/auth/user', $this->setHeaders());
         $this->seeJsonStructure(['user' => ['id', 'username']]);
     }
 
 
     public function testClientCanUseTokenAsAdmin()
     {
-        $this->setUpACL();
-        $headers = $this->headers(User::first());
-
-        $this->get('/admin', $headers);
+        $this->get('/admin', $this->setHeaders('Administrator'));
         $this->see('Welcome Admin');
     }
 
     public function testClientCanUseTokenAsMahasiswa()
     {
-        $this->setUpACL();
-        $headers = $this->headers(User::find(2));
-
-        $this->get('/mahasiswa', $headers);
+        $this->get('/mahasiswa', $this->setHeaders('Mahasiswa'));
         $this->see('Welcome Mahasiswa');
     }
 
     public function testClientCantUseTokenAsAdminIfNotAuthorized()
     {
-        $this->setUpACL();
-        $headers = $this->headers(User::findOrFail(2));
-
-        $this->get('/admin', $headers);
+        $this->get('/admin', $this->setHeaders('Mahasiswa'));
         $this->see('You are not admin sorry!');
     }
 
     public function testClientCantUseTokenAsMahasiswaIfNotAuthorized()
     {
-        $this->setUpACL();
-        $headers = $this->headers(User::find(1));;
-
-        $this->get('/mahasiswa', $headers);
+        $this->get('/mahasiswa', $this->setHeaders('Administrator'));
         $this->see('You are not mahasiswa sorry!');
     }
 

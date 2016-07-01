@@ -1,0 +1,13 @@
+id_stat_pegawai,nm_stat_pegawai
+1,PNS
+2,"PNS Diperbantukan"
+3,"PNS Depag"
+4,GTY/PTY
+5,"GTT/PTT Provinsi"
+6,"GTT/PTT Kab/Kota"
+7,"Guru Bantu Pusat"
+8,"Guru Honor Sekolah"
+9,"Tenaga Honor Sekolah"
+10,"NON PNS"
+11,TNI
+99,Lainnya

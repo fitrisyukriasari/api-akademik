@@ -13,6 +13,10 @@ class UserTableSeeder extends Seeder
      */
     public function run()
     {
+        Role::truncate();
+        User::truncate();
+        DB::table('cms_user_roles')->truncate();
+
         Role::create(['role_name' => 'Administrator']);
         Role::create(['role_name' => 'Mahasiswa']);
 

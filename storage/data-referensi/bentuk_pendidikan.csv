@@ -1,0 +1,35 @@
+id_bp,nm_bp,a_jenj_paud,a_jenj_tk,a_jenj_sd,a_jenj_smp,a_jenj_sma,a_jenj_tinggi,dir_bina,a_aktif
+1,TK,1,1,0,0,0,0,Formal,0
+2,KB,1,1,0,0,0,0,"Non Formal",0
+3,TPA,1,1,0,0,0,0,"Non Formal",0
+4,SPS,1,1,0,0,0,0,"Non Formal",0
+5,SD,0,0,1,0,0,0,Formal,1
+6,SMP,0,0,0,1,0,0,Formal,1
+7,SDLB,0,0,1,0,0,0,Formal,1
+8,SMPLB,0,0,0,1,0,0,Formal,1
+9,MI,0,0,1,0,0,0,Formal,0
+10,MTs,0,0,0,1,0,0,Formal,0
+11,"Paket A",0,0,1,0,0,0,Formal,0
+12,"Paket B",0,0,0,1,0,0,Formal,0
+13,SMA,0,0,0,0,1,0,Formal,0
+14,SMLB,0,0,0,0,1,0,Formal,0
+15,SMK,0,0,0,0,1,0,Formal,0
+16,MA,0,0,0,0,1,0,Formal,0
+17,MAK,0,0,0,0,1,0,Formal,0
+18,"Paket C",0,0,0,0,1,0,Formal,0
+19,Akademik,0,0,0,0,0,1,Formal,0
+20,Politeknik,0,0,0,0,0,1,Formal,0
+21,"Sekolah Tinggi",0,0,0,0,0,1,Formal,0
+22,Institut,0,0,0,0,0,1,Formal,0
+23,Universitas,0,0,0,0,0,1,Formal,0
+24,Kursus,0,0,0,0,0,0,"Non Formal",0
+25,Keaksaraan,0,0,0,0,0,0,"Non Formal",0
+26,TBM,0,0,0,0,0,0,"Non Formal",0
+27,PKBM,0,0,0,0,0,0,"Non Formal",0
+28,"Life Skill",0,0,0,0,0,0,"Non Formal",0
+29,SLB,0,0,1,1,1,0,Formal,1
+30,"Satap TK SD",0,1,1,0,0,0,Formal,1
+31,"Satap SD SMP",0,0,1,1,0,0,Formal,1
+32,"Satap TK SD SMP",0,1,1,1,0,0,Formal,1
+33,"Satap SD SMP SMA",0,0,1,1,1,0,Formal,1
+34,"Akademik Komunitas",0,0,0,0,0,1,Formal,0

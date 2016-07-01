@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\User;
 use Tymon\JWTAuth\Facades\JWTAuth;
 
 class TestCase extends Illuminate\Foundation\Testing\TestCase
@@ -26,6 +27,11 @@ class TestCase extends Illuminate\Foundation\Testing\TestCase
         return $app;
     }
 
+    protected function setUpACL()
+    {
+        $this->seed(UserTableSeeder::class);
+    }
+
     protected function headers($user = null)
     {
         $headers = ['Accept' => 'application/json'];
@@ -47,8 +53,11 @@ class TestCase extends Illuminate\Foundation\Testing\TestCase
         return $headers;
     }
 
-    protected function setUpACL()
+    protected function setHeaders($role = 'Administrator')
     {
-        $this->seed(UserTableSeeder::class);
+        $this->setUpACL();
+
+        $user = $role == 'Administrator' ? User::first() : User::findOrFail(2);
+        return $this->headers($user);
     }
 }

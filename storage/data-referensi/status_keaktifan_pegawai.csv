@@ -1,0 +1,13 @@
+id_stat_aktif,nm_stat_aktif
+1,Aktif
+2,"Tidak Aktif"
+20,"CUTI                          "
+21,"KELUAR                        "
+22,"ALMARHUM                      "
+23,"PENSIUN                       "
+24,"IJIN BELAJAR                  "
+25,"TUGAS DI INSTANSI LAIN        "
+26,"GANTI NIDN                    "
+27,"TUGAS BELAJAR                 "
+28,"HAPUS NIDN"
+99,Lainnya

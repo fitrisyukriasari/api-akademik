@@ -1,0 +1,1001 @@
+id_wil,nm_wil,asal_wil,kode_bps,kode_dagri,kode_keu,id_induk_wilayah,id_level_wil,id_negara
+"000000  ","Indonesia                     ",NULL,NULL,NULL,NULL,0,0,ID
+"010000  ","Prop. D.K.I. Jakarta          ","NULL    ",NULL,NULL,NULL,"000000  ",1,ID
+"010100  ","Kab. Kepulauan Seribu         ","NULL    ",NULL,NULL,NULL,"010000  ",2,ID
+"010101  ","Kec. Kepulauan Seribu Selatan ","NULL    ",NULL,NULL,NULL,"010100  ",3,ID
+"010102  ","Kec. Kepulauan Seribu Utara   ","NULL    ",NULL,NULL,NULL,"010100  ",3,ID
+"016000  ","Kota Jakarta Pusat            ","NULL    ",NULL,NULL,NULL,"010000  ",2,ID
+"016001  ","Kec. Tanah Abang              ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016002  ","Kec. Menteng                  ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016003  ","Kec. Senen                    ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016004  ","Kec. Johar Baru               ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016005  ","Kec. Cempaka Putih            ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016006  ","Kec. Kemayoran                ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016007  ","Kec. Sawah Besar              ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016008  ","Kec. Gambir                   ","NULL    ",NULL,NULL,NULL,"016000  ",3,ID
+"016100  ","Kota Jakarta Utara            ","NULL    ",NULL,NULL,NULL,"010000  ",2,ID
+"016101  ","Kec. Penjaringan              ","NULL    ",NULL,NULL,NULL,"016100  ",3,ID
+"016102  ","Kec. Pademangan               ","NULL    ",NULL,NULL,NULL,"016100  ",3,ID
+"016103  ","Kec. Tanjung Priok            ","NULL    ",NULL,NULL,NULL,"016100  ",3,ID
+"016104  ","Kec. Koja                     ","NULL    ",NULL,NULL,NULL,"016100  ",3,ID
+"016105  ","Kec. Kelapa Gading            ","NULL    ",NULL,NULL,NULL,"016100  ",3,ID
+"016106  ","Kec. Cilincing                ","NULL    ",NULL,NULL,NULL,"016100  ",3,ID
+"016200  ","Kota Jakarta Barat            ","NULL    ",NULL,NULL,NULL,"010000  ",2,ID
+"016201  ","Kec. Kembangan                ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016202  ","Kec. Kebon Jeruk              ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016203  ","Kec. Palmerah                 ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016204  ","Kec. Grogol Petamburan        ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016205  ","Kec. Tambora                  ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016206  ","Kec. Taman Sari               ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016207  ","Kec. Cengkareng               ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016208  ","Kec. Kali Deres               ","NULL    ",NULL,NULL,NULL,"016200  ",3,ID
+"016300  ","Kota Jakarta Selatan          ","NULL    ",NULL,NULL,NULL,"010000  ",2,ID
+"016301  ","Kec. Jagakarsa                ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016302  ","Kec. Pasar Minggu             ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016303  ","Kec. Cilandak                 ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016304  ","Kec. Pesanggrahan             ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016305  ","Kec. Kebayoran Lama           ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016306  ","Kec. Kebayoran Baru           ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016307  ","Kec. Mampang Prapatan         ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016308  ","Kec. Pancoran                 ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016309  ","Kec. Tebet                    ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016310  ","Kec. Setia Budi               ","NULL    ",NULL,NULL,NULL,"016300  ",3,ID
+"016400  ","Kota Jakarta Timur            ","NULL    ",NULL,NULL,NULL,"010000  ",2,ID
+"016401  ","Kec. Pasar Rebo               ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016402  ","Kec. Ciracas                  ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016403  ","Kec. Cipayung                 ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016404  ","Kec. Makasar                  ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016405  ","Kec. Kramat Jati              ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016406  ","Kec. Jatinegara               ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016407  ","Kec. Duren Sawit              ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016408  ","Kec. Cakung                   ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016409  ","Kec. Pulo Gadung              ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"016410  ","Kec. Matraman                 ","NULL    ",NULL,NULL,NULL,"016400  ",3,ID
+"020000  ","Prop. Jawa Barat              ","NULL    ",NULL,NULL,NULL,"000000  ",1,ID
+"020500  ","Kab. Bogor                    ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"020501  ","Kec. Nanggung                 ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020502  ","Kec. Leuwiliang               ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020503  ","Kec. Pamijahan                ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020504  ","Kec. Cibungbulang             ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020505  ","Kec. Ciampea                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020506  ","Kec. Dramaga                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020507  ","Kec. Ciomas                   ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020508  ","Kec. Cijeruk                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020509  ","Kec. Caringin                 ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020510  ","Kec. Ciawi                    ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020511  ","Kec. Cisarua                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020512  ","Kec. Megamendung              ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020513  ","Kec. Sukaraja                 ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020514  ","Kec. Babakan Madang           ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020515  ","Kec. Sukamakmur               ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020516  ","Kec. Cariu                    ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020517  ","Kec. Jonggol                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020518  ","Kec. Cileungsi                ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020519  ","Kec. Gunungputri              ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020520  ","Kec. Citeureup                ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020521  ","Kec. Cibinong                 ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020522  ","Kec. Bojong Gede              ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020523  ","Kec. Kemang                   ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020524  ","Kec. Parung                   ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020525  ","Kec. Gunung Sindur            ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020526  ","Kec. Rumpin                   ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020527  ","Kec. Cigudeg                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020528  ","Kec. Jasinga                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020529  ","Kec. Tenjo                    ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020530  ","Kec. Parungpanjang            ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020531  ","Kec. Tamansari                ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020532  ","Kec. Ciseeng                  ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020533  ","Kec. Kelapa Nunggal           ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020534  ","Kec. Sukajaya                 ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020535  ","Kec. Ranca Bungur             ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020536  ","Kec. Tanjung Sari             ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020537  ","Kec. Tajurhalang              ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020538  ","Kec. Cigombong                ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020539  ","Kec. Leuwisadeng              ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020540  ","Kec. Tenjolaya                ","NULL    ",NULL,NULL,NULL,"020500  ",3,ID
+"020600  ","Kab. Sukabumi                 ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"020601  ","Kec. Ciemas                   ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020602  ","Kec. Ciracap                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020603  ","Kec. Surade                   ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020604  ","Kec. Jampang Kulon            ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020605  ","Kec. Kalibunder               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020606  ","Kec. Tegalbuleud              ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020607  ","Kec. Cidolog                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020608  ","Kec. Sagaranten               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020609  ","Kec. Pabuaran                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020610  ","Kec. Lengkong                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020611  ","Kec. Pelabuhan Ratu           ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020612  ","Kec. Warung Kiara             ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020613  ","Kec. Jampang Tengah           ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020614  ","Kec. Cikembar                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020615  ","Kec. Nyalindung               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020616  ","Kec. Gegerbitung              ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020617  ","Kec. Sukaraja                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020618  ","Kec. Sukabumi                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020619  ","Kec. Kadudampit               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020620  ","Kec. Cisaat                   ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020621  ","Kec. Cibadak                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020622  ","Kec. Nagrak                   ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020623  ","Kec. Cicurug                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020624  ","Kec. Cidahu                   ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020625  ","Kec. Parakansalak             ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020626  ","Kec. Parungkuda               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020627  ","Kec. Kalapa Nunggal           ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020628  ","Kec. Cikidang                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020629  ","Kec. Cisolok                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020630  ","Kec. Kabandungan              ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020631  ","Kec. Gunung Guruh             ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020632  ","Kec. Cikakak                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020633  ","Kec. Bantar Gadung            ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020634  ","Kec. Cicantayan               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020635  ","Kec. Simpenan                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020636  ","Kec. Kebon Pedes              ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020637  ","Kec. Cidadap                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020638  ","Kec. Cibitung                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020639  ","Kec. Curugkembar              ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020640  ","Kec. Purabaya                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020641  ","Kec. Cireunghas               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020642  ","Kec. Sukalarang               ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020643  ","Kec. Caringin                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020644  ","Kec. Bojong Genteng           ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020645  ","Kec. Waluran                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020646  ","Kec. Cimanggu                 ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020647  ","Kec. Ciambar                  ","NULL    ",NULL,NULL,NULL,"020600  ",3,ID
+"020700  ","Kab. Cianjur                  ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"020701  ","Kec. Agrabinta                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020702  ","Kec. Sindang Barang           ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020703  ","Kec. Cidaun                   ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020704  ","Kec. Naringgul                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020705  ","Kec. Cibinong                 ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020706  ","Kec. Tanggeung                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020707  ","Kec. Kadupandak               ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020708  ","Kec. Takokak                  ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020709  ","Kec. Sukanagara               ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020710  ","Kec. Pagelaran                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020711  ","Kec. Campaka                  ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020712  ","Kec. Cibeber                  ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020713  ","Kec. Warungkondang            ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020714  ","Kec. Cilaku                   ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020715  ","Kec. Sukaluyu                 ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020717  ","Kec. Ciranjang                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020718  ","Kec. Mande                    ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020719  ","Kec. Karang Tengah            ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020720  ","Kec. Cianjur                  ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020721  ","Kec. Cugenang                 ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020722  ","Kec. Pacet                    ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020723  ","Kec. Sukaresmi                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020724  ","Kec. Cikalong Kulon           ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020725  ","Kec. Bojong Picung            ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020726  ","Kec. Campaka Mulya            ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020727  ","Kec. Cikadu                   ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020728  ","Kec. Leles                    ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020729  ","Kec. Cijati                   ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020730  ","Kec. Gekbrong                 ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020731  ","Kec. Cipanas                  ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020732  ","Kec. Haurwangi                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020733  ","Kec. Pasirkuda                ","NULL    ",NULL,NULL,NULL,"020700  ",3,ID
+"020800  ","Kab. Bandung                  ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"020801  ","Kec. Ciwidey                  ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020802  ","Kec. Pasirjambu               ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020803  ","Kec. Cimaung                  ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020804  ","Kec. Pangalengan              ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020805  ","Kec. Kertasari                ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020806  ","Kec. Pacet                    ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020807  ","Kec. Ibun                     ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020808  ","Kec. Paseh                    ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020809  ","Kec. Cikancung                ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020810  ","Kec. Cicalengka               ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020811  ","Kec. Rancaekek                ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020812  ","Kec. Majalaya                 ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020813  ","Kec. Ciparay                  ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020814  ","Kec. Bale Endah               ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020815  ","Kec. Arjasari                 ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020816  ","Kec. Banjaran                 ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020817  ","Kec. Pameungpeuk              ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020818  ","Kec. Ketapang                 ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020819  ","Kec. Soreang                  ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020820  ","Kec. Marga Asih               ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020821  ","Kec. Margahayu                ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020822  ","Kec. Dayeuhkolot              ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020823  ","Kec. Bojongsoang              ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020824  ","Kec. Cileunyi                 ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020825  ","Kec. Cilengkrang              ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020826  ","Kec. Cimenyan                 ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020829  ","Kec. Rancabali                ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020830  ","Kec. Nagreg                   ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020831  ","Kec. Solokan Jeruk            ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020832  ","Kec. Cangkuang                ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"020833  ","Kec. Kutawaringin             ","NULL    ",NULL,NULL,NULL,"020800  ",3,ID
+"021000  ","Kab. Sumedang                 ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021001  ","Kec. Jatinangor               ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021002  ","Kec. Cimanggung               ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021003  ","Kec. Tanjungsari              ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021004  ","Kec. Rancakalong              ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021005  ","Kec. Sumedang Selatan         ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021006  ","Kec. Sumedang Utara           ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021007  ","Kec. Situraja                 ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021008  ","Kec. Darmaraja                ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021009  ","Kec. Cibugel                  ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021010  ","Kec. Wado                     ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021012  ","Kec. Tomo                     ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021013  ","Kec. Ujung Jaya               ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021014  ","Kec. Conggeang                ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021015  ","Kec. Paseh                    ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021016  ","Kec. Cimalaka                 ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021017  ","Kec. Tanjungkerta             ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021018  ","Kec. Buah Dua                 ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021019  ","Kec. Ganeas                   ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021020  ","Kec. Jati Gede                ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021023  ","Kec. Pamulihan                ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021024  ","Kec. Cisitu                   ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021025  ","Kec. Jatinunggal              ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021026  ","Kec. Cisarua                  ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021027  ","Kec. Tanjungmedar             ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021028  ","Kec. Surian                   ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021029  ","Kec. Sukasari                 ","NULL    ",NULL,NULL,NULL,"021000  ",3,ID
+"021100  ","Kab. Garut                    ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021101  ","Kec. Talegong                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021102  ","Kec. Cisewu                   ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021103  ","Kec. Bungbulang               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021104  ","Kec. Pamulihan                ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021105  ","Kec. Pakenjeng                ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021106  ","Kec. Cikelet                  ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021107  ","Kec. Pameungpeuk              ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021108  ","Kec. Cibalong                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021109  ","Kec. Cisompet                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021110  ","Kec. Peundeuy                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021111  ","Kec. Singajaya                ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021112  ","Kec. Cikajang                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021113  ","Kec. Banjarwangi              ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021114  ","Kec. Cilawu                   ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021115  ","Kec. Bayongbong               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021116  ","Kec. Cisurupan                ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021117  ","Kec. Samarang                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021119  ","Kec. Garut Kota               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021120  ","Kec. Karangpawitan            ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021121  ","Kec. Wanaraja                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021122  ","Kec. Sukawening               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021123  ","Kec. Banyuresmi               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021124  ","Kec. Leles                    ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021125  ","Kec. Leuwigoong               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021126  ","Kec. Cibatu                   ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021127  ","Kec. Cibiuk                   ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021128  ","Kec. Kadungora                ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021129  ","Kec. Blubur Limbangan         ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021130  ","Kec. Selaawi                  ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021131  ","Kec. Malangbong               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021132  ","Kec. Mekarmukti               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021133  ","Kec. Caringin                 ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021134  ","Kec. Cihurip                  ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021135  ","Kec. Sukaresmi                ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021136  ","Kec. Pasirwangi               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021137  ","Kec. Karangtengah             ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021138  ","Kec. Kersamanah               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021139  ","Kec. Tarogong Kaler           ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021140  ","Kec. Tarogong Kidul           ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021141  ","Kec. Cigedug                  ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021142  ","Kec. Sucinaraja               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021143  ","Kec. Pangatikan               ","NULL    ",NULL,NULL,NULL,"021100  ",3,ID
+"021200  ","Kab. Tasikmalaya              ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021201  ","Kec. Cipatujah                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021202  ","Kec. Karangnunggal            ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021203  ","Kec. Cikalong                 ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021204  ","Kec. Panca Tengah             ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021205  ","Kec. Cikatomas                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021206  ","Kec. Cibalong                 ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021207  ","Kec. Bantarkalong             ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021208  ","Kec. Bojong Gambir            ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021209  ","Kec. Sodonghilir              ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021210  ","Kec. Taraju                   ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021211  ","Kec. Salawu                   ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021212  ","Kec. Tanjungjaya              ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021213  ","Kec. Sukaraja                 ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021214  ","Kec. Salopa                   ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021215  ","Kec. Cineam                   ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021216  ","Kec. Manonjaya                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021219  ","Kec. Singaparna               ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021220  ","Kec. Cigalontang              ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021221  ","Kec. Leuwisari                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021223  ","Kec. Cisayong                 ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021224  ","Kec. Rajapolah                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021225  ","Kec. Jamanis                  ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021226  ","Kec. Ciawi                    ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021227  ","Kec. Pagerageung              ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021228  ","Kec. Parung Ponteng           ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021229  ","Kec. Sariwangi                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021230  ","Kec. Sukaratu                 ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021231  ","Kec. Sukarame                 ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021232  ","Kec. Bojong Asih              ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021233  ","Kec. Culamega                 ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021234  ","Kec. Puspahiang               ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021235  ","Kec. Jatiwaras                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021236  ","Kec. Mangunreja               ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021237  ","Kec. Gunung Tanjung           ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021238  ","Kec. Karang Jaya              ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021239  ","Kec. Pada Kembang             ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021240  ","Kec. Sukahening               ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021241  ","Kec. Kadipaten                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021242  ","Kec. Sukaresik                ","NULL    ",NULL,NULL,NULL,"021200  ",3,ID
+"021400  ","Kab. Ciamis                   ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021401  ","Kec. Cimerak                  ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021402  ","Kec. Cijulang                 ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021403  ","Kec. Cigugur                  ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021404  ","Kec. Langkaplancar            ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021405  ","Kec. Parigi                   ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021406  ","Kec. Sidamulih                ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021407  ","Kec. Pangandaran              ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021408  ","Kec. Kalipucang               ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021409  ","Kec. Padaherang               ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021410  ","Kec. Banjarsari               ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021411  ","Kec. Lakbok                   ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021412  ","Kec. Pamarican                ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021413  ","Kec. Cidolog                  ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021414  ","Kec. Cimaragas                ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021415  ","Kec. Cijeungjing              ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021416  ","Kec. Cisaga                   ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021417  ","Kec. Tambaksari               ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021418  ","Kec. Rancah                   ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021419  ","Kec. Rajadesa                 ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021420  ","Kec. Sukadana                 ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021421  ","Kec. Ciamis                   ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021422  ","Kec. Cikoneng                 ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021423  ","Kec. Cihaurbeuti              ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021424  ","Kec. Sadananya                ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021425  ","Kec. Cipaku                   ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021426  ","Kec. Jatinagara               ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021427  ","Kec. Panawangan               ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021428  ","Kec. Kawali                   ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021429  ","Kec. Panjalu                  ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021430  ","Kec. Panumbangan              ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021431  ","Kec. Panjalu Utara/Sukamantri ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021432  ","Kec. Sindangkasih             ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021433  ","Kec. Purwadadi                ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021434  ","Kec. Baregbeg                 ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021435  ","Kec. Lumbung                  ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021436  ","Kec. Mangunjaya               ","NULL    ",NULL,NULL,NULL,"021400  ",3,ID
+"021437  ","Sukamantri                    ",NULL,NULL,NULL,NULL,0,3,ID
+"021490  ","Padaherang                    ",NULL,NULL,NULL,NULL,0,3,ID
+"021491  ","Kalipucang                    ",NULL,NULL,NULL,NULL,0,3,ID
+"021492  ","Pangandaran                   ",NULL,NULL,NULL,NULL,0,3,ID
+"021493  ","Sidamulih                     ",NULL,NULL,NULL,NULL,0,3,ID
+"021494  ","Parigi                        ",NULL,NULL,NULL,NULL,0,3,ID
+"021495  ","Cimerak                       ",NULL,NULL,NULL,NULL,0,3,ID
+"021496  ","Cigugur                       ",NULL,NULL,NULL,NULL,0,3,ID
+"021497  ","Langkaplancar                 ",NULL,NULL,NULL,NULL,0,3,ID
+"021498  ","Mangunjaya                    ",NULL,NULL,NULL,NULL,0,3,ID
+"021500  ","Kab. Kuningan                 ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021501  ","Kec. Darma                    ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021502  ","Kec. Kadugede                 ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021503  ","Kec. Ciniru                   ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021504  ","Kec. Selajambe                ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021505  ","Kec. Subang                   ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021506  ","Kec. Ciwaru                   ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021507  ","Kec. Cibingbin                ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021508  ","Kec. Luragung                 ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021509  ","Kec. Cidahu                   ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021510  ","Kec. Ciawigebang              ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021511  ","Kec. Lebakwangi               ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021512  ","Kec. Garawangi                ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021513  ","Kec. Kuningan                 ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021514  ","Kec. Cigugur                  ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021515  ","Kec. Kramatmulya              ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021516  ","Kec. Jalaksana                ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021517  ","Kec. Cilimus                  ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021518  ","Kec. Mandirancan              ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021519  ","Kec. Pasawahan                ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021520  ","Kec. Pancalang                ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021521  ","Kec. Cipicung                 ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021522  ","Kec. Kalimanggis              ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021523  ","Kec. Japara                   ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021524  ","Kec. Karangkancana            ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021525  ","Kec. Nusaherang               ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021526  ","Kec. Cilebak                  ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021527  ","Kec. Hantara                  ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021528  ","Kec. Cimahi                   ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021529  ","Kec. Cibeureum                ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021530  ","Kec. Sindang Agung            ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021531  ","Kec. Maleber                  ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021532  ","Kec. Ciganda Mekar            ","NULL    ",NULL,NULL,NULL,"021500  ",3,ID
+"021600  ","Kab. Majalengka               ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021601  ","Kec. Lemahsugih               ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021602  ","Kec. Bantarujeg               ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021603  ","Kec. Cikijing                 ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021604  ","Kec. Talaga                   ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021605  ","Kec. Argapura                 ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021606  ","Kec. Maja                     ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021607  ","Kec. Majalengka               ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021608  ","Kec. Cigasong                 ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021609  ","Kec. Sukahaji                 ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021610  ","Kec. Rajagaluh                ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021611  ","Kec. Sindangwangi             ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021612  ","Kec. Leuwimunding             ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021613  ","Kec. Palasah                  ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021614  ","Kec. Jatiwangi                ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021615  ","Kec. Dawuan                   ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021616  ","Kec. Panyingkiran             ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021617  ","Kec. Kadipaten                ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021618  ","Kec. Kertajati                ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021619  ","Kec. Jatitujuh                ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021620  ","Kec. Ligung                   ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021621  ","Kec. Sumberjaya               ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021622  ","Kec. Banjaran                 ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021623  ","Kec. Cingambul                ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021624  ","Kec. Mala usma                ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021625  ","Kec. Sindang                  ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021626  ","Kec. Kasokandel               ","NULL    ",NULL,NULL,NULL,"021600  ",3,ID
+"021700  ","Kab. Cirebon                  ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021701  ","Kec. Waled                    ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021702  ","Kec. Ciledug                  ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021703  ","Kec. Losari                   ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021704  ","Kec. Babakan                  ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021705  ","Kec. Karang Sembung           ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021706  ","Kec. Lemah Abang              ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021707  ","Kec. Sedong                   ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021708  ","Kec. Astana Japura            ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021709  ","Kec. Mundu                    ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021710  ","Kec. Beber                    ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021712  ","Kec. Sumber                   ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021713  ","Kec. Palimanan                ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021714  ","Kec. Plumbon                  ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021715  ","Kec. Weru                     ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021718  ","Kec. Kapetakan                ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021719  ","Kec. Klangenan                ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021720  ","Kec. Arjawinangun             ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021721  ","Kec. Ciwaringin               ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021722  ","Kec. Susukan                  ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021723  ","Kec. Gegesik                  ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021724  ","Kec. Susukan Lebak            ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021725  ","Kec. Pabedilan                ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021726  ","Kec. Dukupuntang              ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021727  ","Kec. Panguragan               ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021728  ","Kec. Kaliwedi                 ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021729  ","Kec. Pangenan                 ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021730  ","Kec. Gebang                   ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021731  ","Kec. Depok                    ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021732  ","Kec. Kedawung                 ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021733  ","Kec. Karang Wereng            ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021734  ","Kec. Talun                    ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021735  ","Kec. Gunung Jati              ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021736  ","Kec. Pasaleman                ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021737  ","Kec. Pabuaran                 ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021738  ","Kec. Tengah Tani              ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021739  ","Kec. Plered                   ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021740  ","Kec. Gempol                   ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021741  ","Kec. Greged                   ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021742  ","Kec. Suranenggala             ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021743  ","Kec. Jamblang                 ","NULL    ",NULL,NULL,NULL,"021700  ",3,ID
+"021800  ","Kab. Indramayu                ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021801  ","Kec. Haurgeulis               ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021802  ","Kec. Kroya                    ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021803  ","Kec. Gabuswetan               ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021804  ","Kec. Cikedung                 ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021805  ","Kec. Lelea                    ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021806  ","Kec. Bangodua                 ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021807  ","Kec. Widasari                 ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021808  ","Kec. Kertasemaya              ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021809  ","Kec. Krangkeng                ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021810  ","Kec. Karangampel              ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021811  ","Kec. Juntinyuat               ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021812  ","Kec. Sliyeg                   ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021813  ","Kec. Jatibarang               ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021814  ","Kec. Balongan                 ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021815  ","Kec. Indramayu                ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021816  ","Kec. Sindang                  ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021817  ","Kec. Lohbener                 ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021818  ","Kec. Losarang                 ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021819  ","Kec. Kandanghaur              ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021820  ","Kec. Bongas                   ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021821  ","Kec. Anjatan                  ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021822  ","Kec. Sukra                    ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021823  ","Kec. Arahan                   ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021824  ","Kec. Cantigi                  ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021825  ","Kec. Gantar                   ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021826  ","Kec. Terisi                   ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021827  ","Kec. Sukagumiwang             ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021828  ","Kec. Kedokan Bunder           ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021829  ","Kec. Pasekan                  ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021830  ","Kec. Tukdana                  ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021831  ","Kec. Patrol                   ","NULL    ",NULL,NULL,NULL,"021800  ",3,ID
+"021900  ","Kab. Subang                   ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"021901  ","Kec. Sagalaherang             ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021902  ","Kec. Jalancagak               ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021903  ","Kec. Cisalak                  ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021904  ","Kec. Tanjung Siang            ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021905  ","Kec. Cijambe                  ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021906  ","Kec. Cibogo                   ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021907  ","Kec. Subang                   ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021908  ","Kec. Kalijati                 ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021909  ","Kec. Cipeundeuy               ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021910  ","Kec. Pabuaran                 ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021911  ","Kec. Patokbeusi               ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021912  ","Kec. Purwadadi                ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021913  ","Kec. Cikaum                   ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021914  ","Kec. Pagaden                  ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021915  ","Kec. Cipunagara               ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021916  ","Kec. Compreng                 ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021917  ","Kec. Binong                   ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021918  ","Kec. Ciasem                   ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021919  ","Kec. Pamanukan                ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021920  ","Kec. Pusakanagara             ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021921  ","Kec. Legon Kulon              ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021922  ","Kec. Blanakan                 ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021923  ","Kec. Dawuan                   ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021924  ","Kec. Serang Panjang           ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021925  ","Kec. Kasomalang               ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021926  ","Kec. Tambakdahan              ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021927  ","Kec. Pagaden Barat            ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021928  ","Kec. Pusakajaya               ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021929  ","Kec. Ciater                   ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"021930  ","Kec. Sukasari                 ","NULL    ",NULL,NULL,NULL,"021900  ",3,ID
+"022000  ","Kab. Purwakarta               ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"022001  ","Kec. Jatiluhur                ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022002  ","Kec. Maniis                   ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022003  ","Kec. Tegalwaru                ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022004  ","Kec. Plered                   ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022005  ","Kec. Sukatani                 ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022006  ","Kec. Darangdan                ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022007  ","Kec. Bojong                   ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022008  ","Kec. Wanayasa                 ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022009  ","Kec. Pasawahan                ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022010  ","Kec. Purwakarta               ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022011  ","Kec. Campaka                  ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022012  ","Kec. Sukasari                 ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022013  ","Kec. Kiarapedes               ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022014  ","Kec. Babakancikao             ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022015  ","Kec. Cibatu                   ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022016  ","Kec. Bungursari               ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022017  ","Kec. Pondok Salam             ","NULL    ",NULL,NULL,NULL,"022000  ",3,ID
+"022100  ","Kab. Karawang                 ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"022101  ","Kec. Pangkalan                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022102  ","Kec. Ciampel                  ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022104  ","Kec. Klari                    ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022105  ","Kec. Cikampek                 ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022106  ","Kec. Tirtamulya               ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022107  ","Kec. Jatisari                 ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022109  ","Kec. Lemahabang               ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022110  ","Kec. Telagasari               ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022111  ","Kec. Karawang                 ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022112  ","Kec. Rawamerta                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022113  ","Kec. Tempuran                 ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022114  ","Kec. Kutawaluya               ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022115  ","Kec. Rengasdengklok           ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022116  ","Kec. Pedes                    ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022117  ","Kec. Cibuaya                  ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022118  ","Kec. Tirtajaya                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022119  ","Kec. Batujaya                 ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022120  ","Kec. Pakisjaya                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022121  ","Kec. Majalaya                 ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022122  ","Kec. Jayakerta                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022123  ","Kec. Cilamaya Kulon           ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022124  ","Kec. Banyusari                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022125  ","Kec. Kotabaru                 ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022126  ","Kec. Cilamaya Wetan           ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022127  ","Kec. Purwasari                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022128  ","Kec. Teluk Jambe Barat        ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022129  ","Kec. Teluk Jambe Timur        ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022130  ","Kec. Karawang Timur           ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022131  ","Kec. Tegalwaru                ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022132  ","Kec. Cilebar                  ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022133  ","Kec. Karawang Barat           ","NULL    ",NULL,NULL,NULL,"022100  ",3,ID
+"022200  ","Kab. Bekasi                   ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"022201  ","Kec. Setu                     ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022203  ","Kec. Cibarusah                ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022205  ","Kec. Kedung Waringin          ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022207  ","Kec. Cibitung                 ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022209  ","Kec. Bebelan                  ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022210  ","Kec. Taruma Jaya              ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022211  ","Kec. Tembelang                ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022212  ","Kec. Sukatani                 ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022213  ","Kec. Pebayuran                ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022214  ","Kec. Cabangbungin             ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022215  ","Kec. Muara Gembong            ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022216  ","Kec. Tambun Selatan           ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022217  ","Kec. Tambun Utara             ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022218  ","Kec. Cikarang Barat           ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022219  ","Kec. Karang Bahagia           ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022220  ","Kec. Cikarang Utara           ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022221  ","Kec. Cikarang Selatan         ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022222  ","Kec. Cikarang Timur           ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022223  ","Kec. Bojong Mangu             ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022224  ","Kec. Cikarang Pusat           ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022225  ","Kec. Sukakarya                ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022226  ","Kec. Sukawangi                ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022227  ","Kec. Serang Baru              ","NULL    ",NULL,NULL,NULL,"022200  ",3,ID
+"022300  ","Kab. Bandung Barat            ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"022301  ","Kec. Rongga                   ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022302  ","Kec. Gununghalu               ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022303  ","Kec. Sindangkerta             ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022304  ","Kec. Cililin                  ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022305  ","Kec. Cihampelas               ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022306  ","Kec. Cipongkor                ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022307  ","Kec. Batujajar                ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022308  ","Kec. Cipatat                  ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022309  ","Kec. Padalarang               ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022310  ","Kec. Ngamprah                 ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022311  ","Kec. Parongpong               ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022312  ","Kec. Lembang                  ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022313  ","Kec. Cisarua                  ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022314  ","Kec. Cikalong Wetan           ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"022315  ","Kec. Cipeundeuy               ","NULL    ",NULL,NULL,NULL,"022300  ",3,ID
+"026000  ","Kota Bandung                  ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026001  ","Kec. Bandung Kulon            ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026002  ","Kec. Babakan Ciparay          ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026003  ","Kec. Bojong Loa Kaler         ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026004  ","Kec. Bojong Loa Kidul         ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026005  ","Kec. Astananyar               ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026006  ","Kec. Regol                    ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026007  ","Kec. Lengkong                 ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026008  ","Kec. Bandung Kidul            ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026009  ","Kec. Buah Batu                ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026010  ","Kec. Rancasari                ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026011  ","Kec. Cibiru                   ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026012  ","Kec. Ujungberung              ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026013  ","Kec. Arcamanik                ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026015  ","Kec. Kiaracondong             ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026016  ","Kec. Batununggal              ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026017  ","Kec. Sumur Bandung            ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026018  ","Kec. Andir                    ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026019  ","Kec. Cicendo                  ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026020  ","Kec. Bandung Wetan            ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026021  ","Kec. Cibeunying Kidul         ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026022  ","Kec. Cibeunying Kaler         ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026023  ","Kec. Coblong                  ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026024  ","Kec. Sukajadi                 ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026025  ","Kec. Sukasari                 ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026026  ","Kec. Cidadap                  ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026027  ","Kec. Gedebage                 ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026028  ","Kec. Panyileukan              ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026029  ","Kec. Cinambo                  ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026030  ","Kec. Mandalajati              ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026031  ","Kec. Antapani                 ","NULL    ",NULL,NULL,NULL,"026000  ",3,ID
+"026100  ","Kota Bogor                    ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026101  ","Kec. Kota Bogor Selatan       ","NULL    ",NULL,NULL,NULL,"026100  ",3,ID
+"026102  ","Kec. Kota Bogor Timur         ","NULL    ",NULL,NULL,NULL,"026100  ",3,ID
+"026103  ","Kec. Kota Bogor Utara         ","NULL    ",NULL,NULL,NULL,"026100  ",3,ID
+"026104  ","Kec. Kota Bogor Tengah        ","NULL    ",NULL,NULL,NULL,"026100  ",3,ID
+"026105  ","Kec. Kota Bogor Barat         ","NULL    ",NULL,NULL,NULL,"026100  ",3,ID
+"026106  ","Kec. Tanah Sereal             ","NULL    ",NULL,NULL,NULL,"026100  ",3,ID
+"026200  ","Kota Sukabumi                 ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026201  ","Kec. Baros                    ","NULL    ",NULL,NULL,NULL,"026200  ",3,ID
+"026202  ","Kec. Citamiang                ","NULL    ",NULL,NULL,NULL,"026200  ",3,ID
+"026203  ","Kec. Warudoyong               ","NULL    ",NULL,NULL,NULL,"026200  ",3,ID
+"026204  ","Kec. Gunung Puyuh             ","NULL    ",NULL,NULL,NULL,"026200  ",3,ID
+"026205  ","Kec. Cikole                   ","NULL    ",NULL,NULL,NULL,"026200  ",3,ID
+"026206  ","Kec. Lembur Situ              ","NULL    ",NULL,NULL,NULL,"026200  ",3,ID
+"026207  ","Kec. Cibeureum                ","NULL    ",NULL,NULL,NULL,"026200  ",3,ID
+"026300  ","Kota Cirebon                  ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026301  ","Kec. Harjamukti               ","NULL    ",NULL,NULL,NULL,"026300  ",3,ID
+"026302  ","Kec. Lemahwungkuk             ","NULL    ",NULL,NULL,NULL,"026300  ",3,ID
+"026303  ","Kec. Pekalipan                ","NULL    ",NULL,NULL,NULL,"026300  ",3,ID
+"026304  ","Kec. Kesambi                  ","NULL    ",NULL,NULL,NULL,"026300  ",3,ID
+"026305  ","Kec. Kejaksan                 ","NULL    ",NULL,NULL,NULL,"026300  ",3,ID
+"026500  ","Kota Bekasi                   ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026501  ","Kec. Pondokgede               ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026502  ","Kec. Jatiasih                 ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026503  ","Kec. Bantargebang             ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026504  ","Kec. Bekasi Timur             ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026505  ","Kec. Bekasi Selatan           ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026506  ","Kec. Bekasi Barat             ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026507  ","Kec. Bekasi Utara             ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026508  ","Kec. Jati Sampurna            ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026509  ","Kec. Medan Satria             ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026510  ","Kec. Rawalumbu                ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026511  ","Kec. Mustika Jaya             ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026512  ","Kec. Pondok Melati            ","NULL    ",NULL,NULL,NULL,"026500  ",3,ID
+"026600  ","Kota Depok                    ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026601  ","Kec. Sawangan                 ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026602  ","Kec. Pancoran Mas             ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026603  ","Kec. Sukmajaya                ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026604  ","Kec. Cimanggis                ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026605  ","Kec. Beji                     ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026606  ","Kec. Limo                     ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026607  ","Kec. Cipayung                 ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026608  ","Kec. Cilodong                 ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026609  ","Kec. Cinere                   ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026610  ","Kec. Tapos                    ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026611  ","Kec. Bojongsari               ","NULL    ",NULL,NULL,NULL,"026600  ",3,ID
+"026700  ","Kota Cimahi                   ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026701  ","Kec. Cimahi Selatan           ","NULL    ",NULL,NULL,NULL,"026700  ",3,ID
+"026702  ","Kec. Cimahi Tengah            ","NULL    ",NULL,NULL,NULL,"026700  ",3,ID
+"026703  ","Kec. Cimahi Utara             ","NULL    ",NULL,NULL,NULL,"026700  ",3,ID
+"026800  ","Kota Tasikmalaya              ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026801  ","Kec. Cibeureum                ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026802  ","Kec. Tamansari                ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026803  ","Kec. Kawalu                   ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026804  ","Kec. Mangkubumi               ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026805  ","Kec. Indihiang                ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026806  ","Kec. Cipedes                  ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026807  ","Kec. Cihideung                ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026808  ","Kec. Tawang                   ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026809  ","Kec. Purbaratu                ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026810  ","Kec. Bungursari               ","NULL    ",NULL,NULL,NULL,"026800  ",3,ID
+"026900  ","Kota Banjar                   ","NULL    ",NULL,NULL,NULL,"020000  ",2,ID
+"026901  ","Kec. Banjar                   ","NULL    ",NULL,NULL,NULL,"026900  ",3,ID
+"026902  ","Kec. Purwaharja               ","NULL    ",NULL,NULL,NULL,"026900  ",3,ID
+"026903  ","Kec. Pataruman                ","NULL    ",NULL,NULL,NULL,"026900  ",3,ID
+"026904  ","Kec. Langensari               ","NULL    ",NULL,NULL,NULL,"026900  ",3,ID
+"030000  ","Prop. Jawa Tengah             ","NULL    ",NULL,NULL,NULL,"000000  ",1,ID
+"030100  ","Kab. Cilacap                  ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030101  ","Kec. Dayeuhluhur              ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030102  ","Kec. Wanareja                 ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030103  ","Kec. Majenang                 ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030104  ","Kec. Cimanggu                 ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030105  ","Kec. Karangpucung             ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030106  ","Kec. Cipari                   ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030107  ","Kec. Sidareja                 ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030108  ","Kec. Kedungreja               ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030109  ","Kec. Patimuan                 ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030110  ","Kec. Gandrungmangu            ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030111  ","Kec. Bantarsari               ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030112  ","Kec. Kawunganten              ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030113  ","Kec. Kampung Laut             ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030114  ","Kec. Jeruklegi                ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030115  ","Kec. Kesugihan                ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030116  ","Kec. Adipala                  ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030117  ","Kec. Maos                     ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030118  ","Kec. Sampang                  ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030119  ","Kec. Kroya                    ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030120  ","Kec. Binangun                 ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030121  ","Kec. Nusawungu                ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030122  ","Kec. Cilacap Selatan          ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030123  ","Kec. Cilacap Tengah           ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030124  ","Kec. Cilacap Utara            ","NULL    ",NULL,NULL,NULL,"030100  ",3,ID
+"030200  ","Kab. Banyumas                 ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030201  ","Kec. Lumbir                   ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030202  ","Kec. Wangon                   ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030203  ","Kec. Jatilawang               ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030204  ","Kec. Rawalo                   ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030205  ","Kec. Kebasen                  ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030206  ","Kec. Kemranjen                ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030207  ","Kec. Sumpiuh                  ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030208  ","Kec. Tambak                   ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030209  ","Kec. Somagede                 ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030210  ","Kec. Kalibagor                ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030211  ","Kec. Banyumas                 ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030212  ","Kec. Patikraja                ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030213  ","Kec. Purwojati                ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030214  ","Kec. Ajibarang                ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030215  ","Kec. Gumelar                  ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030216  ","Kec. Pekuncen                 ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030217  ","Kec. Cilongok                 ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030218  ","Kec. Karanglewas              ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030219  ","Kec. Kedung Banteng           ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030220  ","Kec. Baturaden                ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030221  ","Kec. Sumbang                  ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030222  ","Kec. Kembaran                 ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030223  ","Kec. Sokaraja                 ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030224  ","Kec. Purwokerto Selatan       ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030225  ","Kec. Purwokerto Barat         ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030226  ","Kec. Purwokerto Timur         ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030227  ","Kec. Purwokerto Utara         ","NULL    ",NULL,NULL,NULL,"030200  ",3,ID
+"030300  ","Kab. Purbalingga              ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030301  ","Kec. Kemangkon                ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030302  ","Kec. Bukateja                 ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030303  ","Kec. Kejobong                 ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030304  ","Kec. Pengadegan               ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030305  ","Kec. Kaligondang              ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030306  ","Kec. Purbalingga              ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030307  ","Kec. Kalimanah                ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030308  ","Kec. Padamara                 ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030309  ","Kec. Kutasari                 ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030310  ","Kec. Bojongsari               ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030311  ","Kec. Mrebet                   ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030312  ","Kec. Bobotsari                ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030313  ","Kec. Karangreja               ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030314  ","Kec. Karanganyar              ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030315  ","Kec. Karangmoncol             ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030316  ","Kec. Rembang                  ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030317  ","Kec. Karangjambu              ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030318  ","Kec. Kertanegara              ","NULL    ",NULL,NULL,NULL,"030300  ",3,ID
+"030400  ","Kab. Banjarnegara             ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030401  ","Kec. Susukan                  ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030402  ","Kec. Purworejo/ Klampok       ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030403  ","Kec. Mandiraja                ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030404  ","Kec. Purwonegara              ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030405  ","Kec. Bawang                   ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030406  ","Kec. Banjarnegara             ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030407  ","Kec. Sigaluh                  ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030408  ","Kec. Madukara                 ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030409  ","Kec. Banjarmangu              ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030410  ","Kec. Wanadadi                 ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030411  ","Kec. Rakit                    ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030412  ","Kec. Punggelan                ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030413  ","Kec. Karangkobar              ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030414  ","Kec. Pagentan                 ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030415  ","Kec. Pejawaran                ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030416  ","Kec. Batur                    ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030417  ","Kec. Wanayasa                 ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030418  ","Kec. Kalibening               ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030419  ","Kec. Pandan Arum              ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030420  ","Kec. Pagedongan               ","NULL    ",NULL,NULL,NULL,"030400  ",3,ID
+"030500  ","Kab. Kebumen                  ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030501  ","Kec. Ayah                     ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030502  ","Kec. Buayan                   ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030503  ","Kec. Puring                   ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030504  ","Kec. Petanahan                ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030505  ","Kec. Klirong                  ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030506  ","Kec. Bulupesantren            ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030507  ","Kec. Ambal                    ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030508  ","Kec. Mirit                    ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030509  ","Kec. Prembun                  ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030510  ","Kec. Kutowinangun             ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030511  ","Kec. Alian                    ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030512  ","Kec. Kebumen                  ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030513  ","Kec. Pejagoan                 ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030514  ","Kec. Sruweng                  ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030515  ","Kec. Adimulyo                 ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030516  ","Kec. Kuwarasan                ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030517  ","Kec. Rowokele                 ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030518  ","Kec. Sempor                   ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030519  ","Kec. Gombong                  ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030520  ","Kec. Karanganyar              ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030521  ","Kec. Karangganyam             ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030522  ","Kec. Sadang                   ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030523  ","Kec. Bonorowo                 ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030524  ","Kec. Padureso                 ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030525  ","Kec. Poncowarno               ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030526  ","Kec. Karangsambung            ","NULL    ",NULL,NULL,NULL,"030500  ",3,ID
+"030600  ","Kab. Purworejo                ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030601  ","Kec. Grabag                   ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030602  ","Kec. Ngombol                  ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030603  ","Kec. Purwodadi                ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030604  ","Kec. Bagelen                  ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030605  ","Kec. Kaligesing               ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030606  ","Kec. Purworejo                ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030607  ","Kec. Banyu Urip               ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030608  ","Kec. Bayan                    ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030609  ","Kec. Kutoarjo                 ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030610  ","Kec. Butuh                    ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030611  ","Kec. Pituruh                  ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030612  ","Kec. Kemiri                   ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030613  ","Kec. Bruno                    ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030614  ","Kec. Gebang                   ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030615  ","Kec. Loano                    ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030616  ","Kec. Bener                    ","NULL    ",NULL,NULL,NULL,"030600  ",3,ID
+"030700  ","Kab. Wonosobo                 ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030701  ","Kec. Wadaslintang             ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030702  ","Kec. Kepil                    ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030703  ","Kec. Sapuran                  ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030704  ","Kec. Kaliwiro                 ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030705  ","Kec. Leksono                  ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030706  ","Kec. Selomerto                ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030707  ","Kec. Kalikajar                ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030708  ","Kec. Kertek                   ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030709  ","Kec. Wonosobo                 ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030710  ","Kec. Watumalang               ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030711  ","Kec. Mojotengah               ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030712  ","Kec. Garung                   ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030713  ","Kec. Kejajar                  ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030714  ","Kec. Sukoharjo                ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030715  ","Kec. Kalibawang               ","NULL    ",NULL,NULL,NULL,"030700  ",3,ID
+"030800  ","Kab. Magelang                 ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030801  ","Kec. Salaman                  ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030802  ","Kec. Borobudur                ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030803  ","Kec. Ngluwar                  ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030804  ","Kec. Salam                    ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030805  ","Kec. Srumbung                 ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030806  ","Kec. Dukun                    ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030807  ","Kec. Muntilan                 ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030808  ","Kec. Mungkid                  ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030809  ","Kec. Sawangan                 ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030810  ","Kec. Candimulyo               ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030811  ","Kec. Martoyudan               ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030812  ","Kec. Tempuran                 ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030813  ","Kec. Kajoran                  ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030814  ","Kec. Kaliangkrik              ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030815  ","Kec. Bandongan                ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030816  ","Kec. Windusari                ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030817  ","Kec. Secang                   ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030818  ","Kec. Tegalrejo                ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030819  ","Kec. Pakis                    ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030820  ","Kec. Grabag                   ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030821  ","Kec. Ngablak                  ","NULL    ",NULL,NULL,NULL,"030800  ",3,ID
+"030900  ","Kab. Boyolali                 ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"030901  ","Kec. Selo                     ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030902  ","Kec. Ampel                    ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030903  ","Kec. Cepogo                   ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030904  ","Kec. Musuk                    ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030905  ","Kec. Boyolali                 ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030906  ","Kec. Mojosongo                ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030907  ","Kec. Teras                    ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030908  ","Kec. Sawit                    ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030909  ","Kec. Banyudono                ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030910  ","Kec. Sambi                    ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030911  ","Kec. Ngemplak                 ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030912  ","Kec. Nogosari                 ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030913  ","Kec. Simo                     ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030914  ","Kec. Karanggede               ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030915  ","Kec. Klego                    ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030916  ","Kec. Andong                   ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030917  ","Kec. Kemusu                   ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030918  ","Kec. Wonosegoro               ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"030919  ","Kec. Juwangi                  ","NULL    ",NULL,NULL,NULL,"030900  ",3,ID
+"031000  ","Kab. Klaten                   ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"031001  ","Kec. Prambanan                ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031002  ","Kec. Gantiwarno               ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031003  ","Kec. Wedi                     ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031004  ","Kec. Bayat                    ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031005  ","Kec. Cawas                    ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031006  ","Kec. Trucuk                   ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031007  ","Kec. Kalikotes                ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031008  ","Kec. Kebonarum                ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031009  ","Kec. Jogonalan                ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031010  ","Kec. Manisrenggo              ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031011  ","Kec. Karangnongko             ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031012  ","Kec. Ngawen                   ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031013  ","Kec. Ceper                    ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031014  ","Kec. Pedan                    ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031015  ","Kec. Karangdowo               ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031016  ","Kec. Juwiring                 ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031017  ","Kec. Wonosari                 ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031018  ","Kec. Delanggu                 ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031019  ","Kec. Polanharjo               ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031020  ","Kec. Karanganom               ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031021  ","Kec. Tulung                   ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031022  ","Kec. Jatinom                  ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031023  ","Kec. Kemalang                 ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031024  ","Kec. Klaten Selatan           ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031025  ","Kec. Klaten Tengah            ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031026  ","Kec. Klaten Utara             ","NULL    ",NULL,NULL,NULL,"031000  ",3,ID
+"031100  ","Kab. Sukoharjo                ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"031101  ","Kec. Weru                     ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031102  ","Kec. Bulu                     ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031103  ","Kec. Tawangsari               ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031104  ","Kec. Sukoharjo                ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031105  ","Kec. Nguter                   ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031106  ","Kec. Bendosari                ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031107  ","Kec. Polokarto                ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031108  ","Kec. Mojolaban                ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031109  ","Kec. Grogol                   ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031110  ","Kec. Baki                     ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031111  ","Kec. Gatak                    ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031112  ","Kec. Kartasura                ","NULL    ",NULL,NULL,NULL,"031100  ",3,ID
+"031200  ","Kab. Wonogiri                 ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"031201  ","Kec. Pracimantoro             ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031202  ","Kec. Paranggupito             ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031203  ","Kec. Giritontro               ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031204  ","Kec. Giriwoyo                 ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031205  ","Kec. Batuwarno                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031206  ","Kec. Karangtengah             ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031207  ","Kec. Tirtomoyo                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031208  ","Kec. Nguntoronadi             ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031209  ","Kec. Baturetno                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031210  ","Kec. Eromoko                  ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031211  ","Kec. Wuryantoro               ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031212  ","Kec. Manyaran                 ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031213  ","Kec. Selogiri                 ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031214  ","Kec. Wonogiri                 ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031215  ","Kec. Ngadirojo                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031216  ","Kec. Sidoharjo                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031217  ","Kec. Jatiroto                 ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031218  ","Kec. Kismantoro               ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031219  ","Kec. Purwantoro               ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031220  ","Kec. Bulukerto                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031221  ","Kec. Slogohimo                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031222  ","Kec. Jatisrono                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031223  ","Kec. Jatipurno                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031224  ","Kec. Girimarto                ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031225  ","Kec. Puhpelem                 ","NULL    ",NULL,NULL,NULL,"031200  ",3,ID
+"031300  ","Kab. Karanganyar              ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"031301  ","Kec. Jatipuro                 ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031302  ","Kec. Jatiyoso                 ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031303  ","Kec. Jumapolo                 ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031304  ","Kec. Jumantono                ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031305  ","Kec. Matesih                  ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031306  ","Kec. Tawangmangu              ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031307  ","Kec. Ngargoyoso               ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031308  ","Kec. Karangpandan             ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031309  ","Kec. Karanganyar              ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031310  ","Kec. Tasikmadu                ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031311  ","Kec. Jaten                    ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031312  ","Kec. Colomadu                 ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031313  ","Kec. Gondangrejo              ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031314  ","Kec. Kebakkramat              ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031315  ","Kec. Mojogedang               ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031316  ","Kec. Kerjo                    ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031317  ","Kec. Jenawi                   ","NULL    ",NULL,NULL,NULL,"031300  ",3,ID
+"031400  ","Kab. Sragen                   ","NULL    ",NULL,NULL,NULL,"030000  ",2,ID
+"031401  ","Kec. Kalijambe                ","NULL    ",NULL,NULL,NULL,"031400  ",3,ID
+"031402  ","Kec. Plupuh                   ","NULL    ",NULL,NULL,NULL,"031400  ",3,ID
+"031403  ","Kec. Masaran                  ","NULL    ",NULL,NULL,NULL,"031400  ",3,ID
+"031404  ","Kec. Kedawung                 ","NULL    ",NULL,NULL,NULL,"031400  ",3,ID

@@ -1,0 +1,11 @@
+id_jns_keluar,ket_keluar,a_pd,a_ptk
+1,Lulus,1,0
+2,Mutasi,1,1
+3,Dikeluarkan,1,1
+4,"Mengundurkan diri",1,1
+5,"Putus Sekolah",1,0
+6,Wafat,1,1
+7,Hilang,1,1
+8,"Alih Fungsi",0,1
+9,Pensiun,0,1
+Z,Lainnya,1,1
